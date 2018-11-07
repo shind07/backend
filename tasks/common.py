@@ -8,3 +8,4 @@ def csvToList(path):
 
 path = os.path.join(data_dir, 'sample.csv')
 sample_data = csvToList(os.path.join(data_dir, 'sample.csv'))
+rates = csvToList(os.path.join(data_dir, 'rates.csv'))
