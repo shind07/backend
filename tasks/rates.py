@@ -8,4 +8,4 @@ def func(**kwargs):
     return agateToArray(data)
 
 def values():
-    pass
+    return rates

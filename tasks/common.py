@@ -12,6 +12,7 @@ def agateToArray(table):
         [round(float(i), 2) if isinstance(i, Decimal) else i if i is not None else "" for i in row]
         for row in table]
 
+
 tester = agate.TypeTester(force={
     'Year': agate.Text()
 })
