@@ -21,3 +21,4 @@ rates = agate.Table.from_csv(os.path.join(data_dir, 'rates.csv'), column_types=t
 sample_data = csvToArray(os.path.join(data_dir, 'sample.csv'))
 
 scatter_data = agate.Table.from_csv(os.path.join(data_dir, 'scatter.csv'))
+histogram_data = agate.Table.from_csv(os.path.join(data_dir, 'hist.csv'))
