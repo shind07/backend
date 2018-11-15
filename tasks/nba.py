@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from common import scatter_data as data, agateToArray
+from common import nba_data as data, agateToArray
 
-columns = data.columns.keys();
+columns = data.columns.keys()[1:];
 defaults = columns[0:2]
 
 def func(**kwargs):

@@ -1,5 +1,9 @@
-from common import histogram_data, agateToArray
+# -*- coding: utf-8 -*-
+from common import histogram_data as data, agateToArray
 
 def func(**kwargs):
     print("kwargs:", kwargs)
-    return agateToArray(histogram_data)
+    return agateToArray(data)
+
+def select(**kwargs):
+    return list(data.columns.keys())[1:]
