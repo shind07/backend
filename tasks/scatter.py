@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
-from common import scatter_data as data, agateToArray
+from common import nba_data as data, pandasToArray
 
-NUM_SELECTS = 1
-columns = list(data.columns.keys());
-data_columns_start = 1
+NUM_SELECTS = 2
+columns = list(data.columns);
+data_columns_start = 2
 defaults = columns[data_columns_start:data_columns_start+NUM_SELECTS]
 
 def func(**kwargs):
-    columns = defaults if 'cols' not in kwargs else kwargs['cols']
-    subset = data.select(columns)
-    print("kwargs:", kwargs)
-    return agateToArray(subset)
+    cols= defaults if 'cols' not in kwargs else kwargs['cols']
+    subset = data[cols]
+    # print(subset.head())
+    # print(subset.info(verbose=True))
+    var = pandasToArray(subset)
+    return var
 
 def select(**kwargs):
-    var = columns[data_columns_start:]
-    print(var)
-    return var
+    return columns[data_columns_start:]
