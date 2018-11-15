@@ -9,10 +9,7 @@ defaults = columns[data_columns_start:data_columns_start+NUM_SELECTS]
 def func(**kwargs):
     cols= defaults if 'cols' not in kwargs else kwargs['cols']
     subset = data[cols]
-    # print(subset.head())
-    # print(subset.info(verbose=True))
-    var = pandasToArray(subset)
-    return var
+    return pandasToArray(subset)
 
 def select(**kwargs):
     return columns[data_columns_start:]
