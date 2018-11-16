@@ -13,8 +13,11 @@ def agateToArray(table):
         [round(float(i), 2) if isinstance(i, Decimal) else i if i is not None else "" for i in row]
         for row in table]
 
-def pandasToArray(table):
-    return [list(table.columns)] + table.values.tolist()
+def pandasToArray(table, multiIndex=False):
+    columns = list(table.columns)
+    if multiIndex:
+        columns = [columns[0][0]] + [col[1] for col in columns[1:]]
+    return [columns] + table.values.tolist()
 
 
 
