@@ -18,8 +18,7 @@ def func(**kwargs):
     else:
         data = data.pivot(index='Year', columns='Team', values=stat)
         data.reset_index(inplace=True)
-        multi_index = True
-    return pandasToArray(data, multi_index)
+    return pandasToArray(data)
 
 def select_columns(**kwargs):
     return columns[data_columns_start:]
