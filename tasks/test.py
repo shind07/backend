@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*- 
-from common import sample_data
+# -*- coding: utf-8 -*-
+from common import nba_data, pandasToArray
 
 def func():
-    return sample_data
+    return pandasToArray(nba_data)
