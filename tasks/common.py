@@ -32,6 +32,6 @@ histogram_data = agate.Table.from_csv(os.path.join(data_dir, 'hist.csv'))
 nba_data = pd.read_csv(os.path.join(data_dir, 'nba_trends.csv'))
 nba_data['Team'] = nba_data['Team'].apply(lambda team: team[:-1] if '*' in team else team)
 
-pps_shot_clock = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
+pps_shot_clock_data = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
 
 # get all float columns
