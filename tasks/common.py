@@ -24,14 +24,14 @@ tester = agate.TypeTester(force={
     'Year': agate.Text()
 })
 
-rates = agate.Table.from_csv(os.path.join(data_dir, 'rates.csv'), column_types=tester)
 sample_data = csvToArray(os.path.join(data_dir, 'sample.csv'))
-scatter_data = agate.Table.from_csv(os.path.join(data_dir, 'scatter.csv'))
-histogram_data = agate.Table.from_csv(os.path.join(data_dir, 'hist.csv'))
+
 
 nba_data = pd.read_csv(os.path.join(data_dir, 'nba_trends.csv'))
 nba_data['Team'] = nba_data['Team'].apply(lambda team: team[:-1] if '*' in team else team)
 
 pps_shot_clock_data = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
+pps_action_data = pd.read_csv(os.path.join(data_dir, 'pps_action.csv'))
 
+relationships_data = pd.read_csv(os.path.join(data_dir, 'box_relationships.csv'))
 # get all float columns
