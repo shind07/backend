@@ -32,6 +32,6 @@ nba_data['Team'] = nba_data['Team'].apply(lambda team: team[:-1] if '*' in team 
 
 pps_shot_clock_data = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
 pps_action_data = pd.read_csv(os.path.join(data_dir, 'pps_action.csv'))
-
 relationships_data = pd.read_csv(os.path.join(data_dir, 'box_relationships.csv'))
+trends_data = pd.read_csv(os.path.join(data_dir, 'box_trends.csv'))
 # get all float columns
