@@ -12,7 +12,7 @@ def func(**kwargs):
     stat = defaults if 'col' not in kwargs else kwargs['col']
     piv = data.pivot(index='Year', columns='Label', values=stat)
     piv.reset_index(inplace=True)
-    piv['Year'] = piv['Year'].astype('object')
+    piv['Year'] = piv['Year'].apply(lambda x: str(x) + ' ')
     return pandasToArray(piv)
 
 def select_columns(**kwargs):

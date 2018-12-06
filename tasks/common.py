@@ -30,6 +30,8 @@ sample_data = csvToArray(os.path.join(data_dir, 'sample.csv'))
 nba_data = pd.read_csv(os.path.join(data_dir, 'nba_trends.csv'))
 nba_data['Team'] = nba_data['Team'].apply(lambda team: team[:-1] if '*' in team else team)
 
+assists_action_data = pd.read_csv(os.path.join(data_dir, 'assists_action.csv'))
+assists_player_data = pd.read_csv(os.path.join(data_dir, 'assists_player.csv'))
 pps_shot_clock_data = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
 pps_action_data = pd.read_csv(os.path.join(data_dir, 'pps_action.csv'))
 relationships_data = pd.read_csv(os.path.join(data_dir, 'box_relationships.csv'))
