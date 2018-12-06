@@ -1,529 +1,821 @@
 Gender,Division,Year,Team,ScoringPlayer,AssistingPlayer,TotalAssists
-Women,D1,2017,Texas A&M,"Hillsman, Khaalia","Knox, Curtyce",109
+Men,D2,2017,Merrimack,"Boulter, Ryan","Hayes, Juvaris",113
+Men,D1,2015,Northwestern St.,"Woodley, Zeek","West, Jalan",110
+Women,D1,2017,Texas A&M,"Hillsman, Khaalia","Knox, Curtyce",108
+Women,D1,2017,Drake,"Wendell, Lizzy","Ingle, Caitlin",108
+Women,D2,2013,Adelphi,"Kitrys, Jessica","Jackson, Sade",107
+Women,D2,2016,Virginia Union,"Walker, Lady","Johnson, Kiana",107
+Men,D3,2017,Wheelock,"Williams, Anthony","Fenton, Nicholas",107
+Women,D2,2017,Mercyhurst,"Piaggesi, Natalie","Heintz, Angela",107
+Women,D2,2016,West Liberty,"Flowers, Liz","Howe, Kailee",106
+Women,D3,2014,Thomas More,"Moss, Sydney","Beasley, Devin",105
+Women,D3,2016,Lancaster Bible,"Folger, Aubrey","Pennell, Krissy",104
+Men,D2,2015,Minnesota St.,"Marei, Assem","Monaghan, Zach",104
+Women,D1,2016,Albany (NY),"Richards, Shereesha","Saunders, Zakiya",101
+Women,D1,2015,James Madison,"Hall, Precious","Mickens, Angela",101
+Women,D1,2014,Nebraska,"Hooper, Jordan","Theriot, Rachel",101
+Women,D1,2016,Drake,"Wendell, Lizzy","Ingle, Caitlin",96
+Women,D2,2013,Arkansas Tech,"Weatherford, Jessica","Silva, Roselis",96
+Men,D2,2015,Minn. St. Mankato,"Marei, Assem","Monaghan, Zach",95
+Men,D1,2015,Providence,"Henton, Ladontae","Dunn, Kris",94
+Women,D3,2016,Scranton,"Roman, Alexix","Payonk, Sarah",94
+Men,D1,2014,Oakland,"Bader, Travis","Felder, Kahlil",91
 Women,D1,2015,Drake,"Wendell, Lizzy","Ingle, Caitlin",91
-Women,D2,2015,West Liberty,"Flowers, Liz","Howe, Kailee",91
-Women,D1,2013,Baylor,"Griner, Brittney","Sims, Odyssey",91
-Women,D1,2017,Texas A&M,"Williams, Danni","Knox, Curtyce",87
-Women,D2,2017,Alas. Anchorage,"Williams, Autummn","Robertson, Kiki",81
-Women,D1,2017,New Mexico,"van der Keijl, Richelle","Beynon, Cherise",79
-Women,D2,2015,Alas. Anchorage,"Mullings, Megan","Robertson, Kiki",79
-Men,D1,2014,LIU Brooklyn,"Atterberry, Landon","Brickman, Jason",77
+Women,D1,2013,Oral Roberts,"Luper, Kevi","Bigham, Jaci",90
+Women,D2,2014,Adelphi,"Kitrys, Jessica","Jackson, Sade",90
+Women,D1,2015,Morehead St.,"Steele, Shay","Jones, Almesha",89
+Women,D1,2013,Baylor,"Griner, Brittney","Sims, Odyssey",89
+Women,D1,2014,Saint Joseph's,"Shields, Erin","Cloud, Natasha",89
+Women,D1,2015,Baylor,"Davis, Nina","Johnson, Niya",87
+Women,D2,2015,West Liberty,"Flowers, Liz","Howe, Kailee",86
+Men,D2,2016,Barry,"Barrueta, Yunio","Fridriksson, Elvar",85
+Women,D1,2017,Texas A&M,"Williams, Danni","Knox, Curtyce",85
+Men,D2,2016,Western Ore.,"Avgi, Andy","Nichols, Julian",85
+Women,D1,2014,Louisiana Tech,"Frazier, Whitney","Walter, Chrisstasia",84
+Women,D1,2013,Kansas,"Davis, Carolyn","Goodrich, Angel",84
+Women,D1,2017,La Salle,"Griffin, Amy","Alston, Jasmine",84
+Women,D2,2017,California Baptist,"Mihalko, Cassidy","Diaz, Kamille",83
+Men,D1,2016,Ohio,"Campbell, Antonio","Simmons, Jaaron",83
+Men,D1,2013,Creighton,"McDermott, Doug","Gibbs, Grant",83
+Men,D2,2016,Fayetteville St.,"Tyson, Michael","Dawson, Joshua",82
+Men,D2,2016,West Liberty,"Bonifant, Seger","Dennis, David",82
+Men,D2,2014,Florida Tech,"Jackson, Jermaine","Carter, Chris",82
+Men,D3,2017,Emory,"Gigax, Adam","Rapp, Whit",82
+Women,D1,2013,Nebraska,"Hooper, Jordan","Moore, Lindsey",81
+Women,D1,2016,Oklahoma St.,"Martin, Brittney","Patton, Roddricka",81
+Women,D2,2013,Barton,"Willie, Nyeshea","Morgan, Elaine",81
+Women,D1,2017,UConn,"Collier, Napheesa","Williams, Gabby",79
+Women,D2,2013,Adelphi,"Mannix, Kelly","Jackson, Sade",79
+Men,D1,2016,Ohio,"Kaminski, Kenny","Simmons, Jaaron",78
+Women,D1,2013,Sacred Heart,"Washington, Gabrielle","Norman, Ericka",78
+Men,D1,2015,BYU,"Haws, Tyler","Collinsworth, Kyle",77
+Women,D1,2016,Baylor,"Davis, Nina","Johnson, Niya",77
+Women,D3,2017,Scranton,"Roman, Alexix","Payonk, Sarah",77
+Women,D1,2014,Southern Miss.,"Jones, Tamara","Faulkner, Jamierra",77
+Women,D1,2013,Oklahoma St.,"Donohoe, Liz","Bias, Tiffany",77
+Men,D3,2016,Ithaca,"Chasin, Marc","Bevan, Sam",76
+Women,D1,2016,James Madison,"Gwathmey, Jazmon","Mickens, Angela",76
+Women,D1,2014,Texas A&M,"Williams, Courtney","Jones, Jordan",76
+Men,D2,2013,Drury,"Hall, Alex","Lockhart, Brandon",76
+Women,D1,2014,Iowa,"Doolitte, Bethany","Logic, Samantha",75
+Women,D1,2017,Western Ill.,"Blumer, Morgan","Clemens, Emily",75
+Women,D1,2017,Ball St.,"Monaco, Moriah","Grande, Carmen",75
+Women,D1,2017,South Fla.,"Laksa, Kitija","Flores, Laia",75
+Women,D1,2015,Kansas,"Gardner, Chelsea","Aldridge, Lauren",75
 Men,D3,2017,Iowa Wesleyan,"Soukup, Steven","Soukup, Michael",75
-Men,D1,2014,BYU,"Haws, Tyler","Carlino, Matt",74
-Men,D1,2015,Gonzaga,"Wiltjer, Kyle","Pangos, Kevin",74
-Men,D3,2015,Albertus Magnus,"Sledge, Tavon","Davis, Eian",73
-Men,D1,2013,Duke,"Plumlee, Mason","Cook, Quinn",73
+Women,D2,2013,Azusa Pacific,"Hardeman, Kelly","Ziegler, Sullivan",75
+Women,D1,2015,Iowa,"Dixon, Melissa","Logic, Samantha",75
+Women,D1,2014,Akron,"Tecca, Rachel","Cassell, Kacie",74
+Women,D1,2017,West Virginia,"Martin, Tynice","Ray, Chania",74
+Women,D2,2013,Caldwell,"Jones, Torey","Coscia, Jessica",74
+Women,D1,2016,Northwestern,"Coffey, Nia","Deary, Ashley",74
+Men,D2,2015,Hillsdale,"Cooper, Kyle","Miller, Zach",74
+Men,D1,2013,SFA,"Smith, Taylor","Bateman, Hal",74
+Men,D1,2015,Gardner-Webb,"Hill, Jerome","Strange, Tyler",74
+Men,D1,2013,Stephen F. Austin,"Smith, Taylor","Bateman, Hal",74
+Men,D3,2015,Wheelock,"Williams, Anthony","Fenton, Nicholas",74
+Women,D3,2014,Carthage,"Wenzel, Michelle","Kuzmanic, Stephanie",74
+Men,D1,2016,Providence,"Bentil, Ben","Dunn, Kris",73
+Women,D3,2016,Rutgers-Newark,"Williams, Arianna","Simmons, Maria",73
+Women,D1,2014,Seton Hall,"Richardson-Smith, Tabatha","Simmons, Ka-Deidre",72
+Women,D1,2015,Quinnipiac,"Guastella, Samantha","Abshire, Gillian",72
+Women,D1,2017,St. John's (NY),"Walker, Jade","Lewis, Aaliyah",72
+Women,D1,2014,Arkansas,"Jackson, Jessica","Berna, Calli",72
+Women,D1,2016,Buffalo,"Smith, Joanna","Reid, Stephanie",72
+Women,D1,2013,Southern Miss.,"Carey, Tanecka","Faulkner, Jamierra",72
+Women,D1,2017,California,"Anigwe, Kristine","Cowling, Mikayla",72
+Women,D2,2013,Barton,"Neal, Shante","Morgan, Elaine",72
+Men,D1,2016,Kentucky,"Murray, Jamal","Ulis, Tyler",72
 Men,D1,2016,Oakland,"Hooper, Max","Felder, Kahlil",71
+Women,D1,2013,Mercer,"Grant, Kendra","Boykin, Sharnea",71
+Women,D1,2014,Baylor,"Sims, Odyssey","Johnson, Niya",71
+Women,D2,2016,Lubbock Christian,"Hoppel, Kelsey","Hampton, Nicole",71
+Women,D1,2017,Buffalo,"Smith, Joanna","Reid, Stephanie",71
+Women,D1,2013,UT Martin,"Butler, Heather","Newsome, Jasmine",71
+Women,D3,2016,Muhlenberg,"Plotke, Rachel","Vallely, Brandi",71
+Women,D1,2014,Saint Joseph's,"Fairbanks, Sarah","Cloud, Natasha",71
+Men,D2,2017,Kutztown,"Cuevas, Dan","Ridgeway, Ethan",71
+Women,D1,2017,Syracuse,"Sykes, Brittney","Peterson, Alexis",71
+Men,D2,2017,Adelphi,"Laffey, Jack","McGuinness, Conor",71
+Women,D1,2017,Middle Tenn.,"Johnson, Alex","Petty, Ty",71
+Men,D2,2016,Augustana (SD),"Jansen, Daniel","Spencer, Jordan",70
 Women,D1,2017,Temple,"Butts, Alliya","Fitzgerald, Feyonda",70
-Men,D1,2014,Syracuse,"Fair, C.J.","Ennis, Tyler",70
+Women,D3,2017,Gettysburg,"Gibbons, Emily","Meredith, Kendra",70
+Women,D1,2016,Drexel,"Curran, Sarah","Creighton, Meghan",70
+Men,D1,2015,San Diego,"Dee, Johnny","Anderson, Christopher",70
+Women,D1,2013,Akron,"Luburgh, Hanna","Cassell, Kacie",70
+Women,D1,2016,Albany (NY),"Richards, Shereesha","Tate, Imani",69
+Women,D3,2016,McDaniel,"Nichols, Lindsey","Davis, Brittney",69
+Men,D2,2015,UC-Colo. Springs,"Welsh, Alex","White, Derrick",69
+Men,D1,2014,Texas Southern,"Murray, Aaric","Gibbs, Madarious",69
+Men,D1,2014,BYU,"Haws, Tyler","Carlino, Matt",69
+Women,D3,2017,Lancaster Bible,"Hickey, Caitlin","Pennell, Krissy",69
+Men,D1,2017,Wake Forest,"Collins, John","Crawford, Bryant",69
+Men,D3,2014,Grinnell,"Levin, Aaron","Maher, Patrick",69
 Men,D1,2016,Oakland,"Gibson, Percy","Felder, Kahlil",69
-Men,D1,2013,Santa Clara,"Foster, Kevin","Roquemore, Evan",69
+Women,D1,2013,Iowa St.,"Christofferson, Hallie","Moody, Nikki",69
+Women,D1,2016,Oklahoma St.,"Jensen, Kaylee","Patton, Roddricka",68
+Women,D1,2013,McNeese St.,"Baggett, Ashlyn","Baggett, Caitlyn",68
+Men,D1,2013,East Carolina,"Kemp, Maurice","Paul, Miguel",68
+Women,D2,2016,Edinboro,"Freeland, Aignee","Fischer, Katie",68
 Men,D1,2016,Oakland,"Hayes, Jalen","Felder, Kahlil",68
-Men,D1,2014,North Carolina St.,"Warren, T.J.","Lewis, Tyler",67
-Men,D1,2014,San Diego,"Dee, Johnny","Anderson, Christopher",67
-Women,D1,2013,Notre Dame,"Achonwa, Natalie","Diggins, Skylar",66
-Men,D1,2014,West Virginia,"Harris, Eron","Staten, Juwan",66
-Men,D1,2015,Duke,"Cook, Quinn","Jones, Tyus",66
-Women,D1,2015,Arkansas,"Jackson, Jessica","Berna, Calli",66
-Men,D1,2013,Santa Clara,"Trasolini, Marc","Foster, Kevin",66
-Men,D1,2015,North Carolina,"Johnson, Brice","Paige, Marcus",65
-Men,D2,2014,Tampa,"Moraes, Eric","Davis, Jordan",65
-Men,D1,2015,Arizona,"Ashley, Brandon","McConnell, T.J.",65
-Men,D1,2014,Duke,"Parker, Jabari","Cook, Quinn",65
-Women,D2,2017,Simon Fraser,"Wilson, Meg","Kett, Ellen",65
-Men,D2,2017,Alas. Fairbanks,"Pederson, Zach","Matlock, Nahjee",64
-Men,D1,2014,Syracuse,"Grant, Jerami","Ennis, Tyler",63
-Men,D1,2014,Boston U.,"Morris, Dom","Watson Jr., Maurice",63
-Women,D1,2013,Notre Dame,"McBride, Kayla","Diggins, Skylar",62
-Men,D1,2014,Saint Peter's,"Dominique, Marvin","Wyche, Trevis",62
-Men,D1,2014,Xavier,"Christon, Semaj","Davis, Dee",62
-Women,D2,2015,West Liberty,"Southworth, Hillary","Howe, Kailee",62
-Men,D1,2014,New Mexico,"Bairstow, Cameron","Williams, Kendall",61
+Men,D3,2014,Albertus Magnus,"Watson, Darius","Davis, Eian",68
+Men,D2,2017,Notre Dame (OH),"Vorhees, Will","Lewis, Ja'Sean",68
+Men,D1,2017,Wofford,"Magee, Fletcher","Garcia, Eric",68
+Women,D1,2015,American,"Holmes, Michelle","Dumiak, Jen",68
+Women,D1,2014,Akron,"Luburgh, Hanna","Cassell, Kacie",68
+Women,D1,2013,McNeese,"Baggett, Ashlyn","Baggett, Caitlyn",68
+Women,D2,2017,Francis Marion,"Fulmore, Shaunice","Flowers, Tete",68
+Men,D1,2015,Louisiana Tech,"Appleby, Raheem","Smith, Kenneth",68
+Women,D2,2013,Belmont Abbey,"Long, Kelsey","Fox, Candace",68
+Men,D1,2013,Syracuse,"Fair, C.J.","Carter-Williams, Michael",68
+Men,D1,2013,Santa Clara,"Foster, Kevin","Roquemore, Evan",68
+Men,D1,2016,La.-Monroe,"Deng, Majok","Coppola, Nick",67
+Women,D1,2013,Sam Houston St.,"Thomas, Sequeena","Martin, Britni",67
+Men,D1,2016,BYU,"Emery, Nick","Collinsworth, Kyle",67
+Men,D1,2013,Syracuse,"Southerland, James","Carter-Williams, Michael",67
+Men,D2,2016,Saginaw Valley,"Turnage, C.J.","Smith, Kellen",67
+Women,D2,2013,Bentley,"Battista, Lauren","Bakolas, Christiana",67
+Women,D3,2016,Muhlenberg,"Manning, Christina","Vallely, Brandi",67
+Women,D1,2013,Oral Roberts,"Shelton, Sarah","Bigham, Jaci",67
+Men,D1,2016,Northwestern St.,"Woodley, Zeek","Hall, Devonte",67
+Women,D1,2017,Maryland,"Walker-Kimbrough, Shatori","Slocum, Destiny",67
+Men,D1,2016,Iowa,"Uthoff, Jarrod","Gesell, Mike",67
+Women,D2,2013,Wingate,"Williams, Janitsha","Wollett, Sarah",67
+Men,D3,2015,Albertus Magnus,"Sledge, Tavon","Davis, Eian",67
+Men,D2,2016,Lake Superior St.,"Daly, Devin","Williams, Akaemji",67
+Women,D1,2017,Western Ky.,"Brown, Ivy","Noble, Kendall",67
+Women,D2,2016,Nova Southeastern,"Wright, Kayla","Merritt, Monaye",67
+Women,D1,2013,Col. of Charleston,"Frye, Alyssa","Brown, Jillian",67
+Women,D1,2016,La Salle,"Griffin, Amy","Alston, Jasmine",67
+Women,D2,2013,S.C. Aiken,"Tarailo, Daniela","Hill, Brittany",67
+Women,D1,2017,Northwestern St.,"Brown, Cheyenne","Attura, Beatrice",67
+Men,D1,2013,Marshall,"Pittman, Elijah","Kane, Deandre",66
+Men,D1,2017,UCLA,"Leaf, TJ","Ball, Lonzo",66
+Women,D1,2013,Akron,"Tecca, Rachel","Cassell, Kacie",66
+Men,D2,2017,Mansfield,"Tamanosky, Matt","Powell, Cedrick",66
+Men,D1,2014,LIU Brooklyn,"Atterberry, Landon","Brickman, Jason",66
+Women,D1,2013,Drexel,"Wootton, Taylor","Mershon, Hollie",66
+Women,D1,2015,California,"Gray, Reshanda","Boyd, Brittany",66
+Women,D1,2013,Charlotte,"Hailey, Jennifer","Hammonds, Ny",66
+Women,D1,2016,Baylor,"Jones, Alexis","Johnson, Niya",66
+Women,D1,2016,Louisville,"Hines-Allen, Myisha","Moore, Mariya",66
+Men,D2,2017,Adelphi,"Coffey, Michael","McGuinness, Conor",66
+Women,D1,2016,Nebraska,"Shepard, Jessica","Theriot, Rachel",66
+Women,D2,2013,West Liberty,"Southworth, Hillary","Flowers, Liz",66
+Men,D3,2017,Staten Island,"Murphy, Kevon","Schettino, Frank",65
+Men,D1,2016,Rice,"Koulechov, Egor","Guercy, Max",65
+Men,D1,2014,N.C. Central,"Ingram, Jeremy","Chapman, Emanuel",65
+Men,D2,2015,USciences,"Kerr, Garret","Casiello, T-John",65
+Women,D1,2017,Loyola Marymount,"Johnson, Jackie","Velasco, Andee",65
+Women,D1,2017,Tulane,"Morgan, Kolby","Vorpahl, Leslie",65
+Women,D1,2015,Middle Tenn.,"Jones, Olivia","Petty, Ty",65
+Men,D1,2017,Southern U.,"Prudhomme, Shawn","Banks, Trelun",65
+Men,D1,2013,BYU,"Haws, Tyler","Carlino, Matt",65
+Men,D1,2013,San Diego,"Dee, Johnny","Anderson, Christopher",65
+Women,D1,2014,Texas A&M,"Walker, Courtney","Jones, Jordan",65
+Women,D1,2015,Seton Hall,"Richardson-Smith, Tabatha","Simmons, Ka-Deidre",65
+Women,D1,2017,Lamar University,"Kinard, Moe","Barrs, Chastadie",65
+Men,D1,2017,UT Martin,"Martinez, Javier","Edwards, Kedar",65
+Men,D1,2016,Iowa St.,"Niang, Georges","Morris, Monté",65
+Women,D1,2017,Ball St.,"Bennett, Renee","Grande, Carmen",65
+Men,D1,2013,Sacred Heart,"Gibson, Shane","Gaetano, Phil",65
+Men,D1,2016,St. Mary's (CA),"Pineau, Dane","Naar, Emmett",65
+Women,D1,2017,Belmont,"Smith, Kylee","Maggard, Darby",65
+Women,D3,2017,Salem,"Sheperd, Sabrina","Seivers, Mikayla",64
+Men,D2,2015,Barry,"Barrueta, Yunio","Hill, Deric",64
+Women,D1,2017,Notre Dame,"Turner, Brianna","Allen, Lindsay",64
+Men,D2,2014,Tampa,"Moraes, Eric","Davis, Jordan",64
+Women,D3,2015,Mt. St. Vincent,"Fraser, Kelly","Barone, Christina",64
+Men,D2,2017,Quincy,"McGaughey, Evan","Senor, Herm",64
+Women,D1,2014,California,"Gray, Reshanda","Boyd, Brittany",64
+Men,D1,2014,Louisiana Tech,"McNeail, Kenyon","Smith, Kenneth",64
+Men,D2,2016,Augustana (SD),"Richter, Alex","Spencer, Jordan",64
+Women,D2,2015,Alas. Anchorage,"Mullings, Megan","Robertson, Kiki",64
+Women,D3,2013,Marymount (VA),"Parks, Tynisha","Fischer, Katelyn",64
+Women,D1,2017,Michigan St.,"Jankoska, Tori","McCutcheon, Taryn",64
+Women,D1,2014,Kansas,"Gardner, Chelsea","Harper, Charlicia Cece",64
+Men,D3,2014,Albertus Magnus,"Ljuljdjuraj, Victor","Davis, Eian",64
+Women,D2,2017,Chestnut Hill,"Kuhnen, Caity","Trossi, Mary",64
+Women,D1,2014,Mississippi St.,"Alwal, Martha","May, Katia",64
+Men,D1,2013,Duke,"Plumlee, Mason","Cook, Quinn",64
+Women,D1,2015,Western Ky.,"Gooch, Chastity","Noble, Kendall",64
+Men,D1,2013,Santa Clara,"Trasolini, Marc","Foster, Kevin",64
+Women,D2,2016,West Liberty,"Simpson, Kierra","Howe, Kailee",64
+Men,D1,2014,Southeast Mo. St.,"Stone, Tyler","Nutt, Lucas",63
+Women,D1,2013,Michigan,"Thompson, Kate","Ryan, Jenny",63
+Men,D1,2016,Michigan St.,"Forbes, Bryn","Valentine, Denzel",63
+Men,D1,2014,Creighton,"McDermott, Doug","Chatman, Austin",63
+Women,D1,2014,UConn,"Stewart, Breanna","Hartley, Bria",63
+Women,D2,2016,California Baptist,"Mihalko, Cassidy","Diaz, Kamille",63
+Women,D3,2015,Scranton,"Mesaris, Meredith","Fluehr, Lindsay",63
+Women,D1,2014,Marquette,"Plouffe, Katherine","Pumroy, Brooklyn",63
+Men,D1,2016,BYU,"Fischer, Chase","Collinsworth, Kyle",63
+Men,D1,2013,Tennessee St.,"Thornton, Kellen","Miller, Patrick",63
+Women,D1,2014,LSU,"Plaisance, Theresa","Kenney, Jeanne",63
+Men,D1,2014,Longwood,"Carey, Tristan","Woodhouse, Lucas",63
+Men,D1,2014,San Diego,"Dee, Johnny","Anderson, Christopher",63
+Women,D1,2017,Northwestern,"Coffey, Nia","Deary, Ashley",63
+Men,D3,2017,Staten Island,"Bracic, Edin","Schettino, Frank",63
+Women,D1,2015,Wyoming,"Woodward, Kayla","Dent, Marquelle",63
+Women,D2,2013,West Florida,"Vette, Hanna","Johnson, Toynetta",63
+Men,D1,2014,Creighton,"McDermott, Doug","Gibbs, Grant",63
+Women,D2,2015,Union (TN),"Thompson, Deanna","Philamlee, Amy",63
+Men,D1,2013,North Florida,"Smith, Parker","Wilson, Will",63
+Women,D1,2013,Notre Dame,"Achonwa, Natalie","Diggins, Skylar",62
+Women,D1,2017,Little Rock,"Collins, Sharde'","Townson, Monique",62
+Men,D1,2013,Ohio,"Keely, Reggie","Cooper, D.J.",62
+Women,D2,2014,Concordia-St. Paul,"Whiting, Anika","Hansen, Rachel",62
+Men,D1,2013,North Carolina St.,"Wood, Scott","Brown, Lorenzo",62
+Men,D2,2014,Fort Hays St.,"Brunson, Dwayne","Nicholson, Craig",62
+Men,D1,2015,Gardner-Webb,"Nelson, Tyrell","Strange, Tyler",62
+Men,D2,2017,Kentucky St.,"Barton, Julius","Jordan, Dorian",62
+Women,D3,2014,John Carroll,"Spahar, Melissa","Lustig, Allison",62
+Men,D3,2017,Cornell College,"Anderson, Jon","Davis, Corey",62
+Men,D1,2016,Arkansas,"Bell, Anthlon","Durham, Jabril",62
+Men,D1,2017,Oklahoma St.,"Carroll, Jeffrey","Evans, Jawun",62
+Women,D1,2016,UConn,"Stewart, Breanna","Jefferson, Moriah",62
+Women,D2,2013,Concordia-St. Paul,"Whiting, Anika","Hansen, Rachel",62
+Men,D2,2014,S.C. Aiken,"Zimmerman, Ronald","Wright, Devontae",62
+Men,D3,2013,Lycoming,"Martin, Anthony","Williams, Jerald",62
+Men,D1,2014,VMI,"Covington, D.J.","Glasgow, Rodney",62
+Women,D1,2013,Denver,"Van Riper-Rose, Morgan","Smith, Emiko",62
+Men,D2,2015,Dominican (NY),"Smith, Nick","Clinton, Joe",62
+Women,D2,2015,Eckerd,"Thomas, Rana","Bowlin, Kayla",62
+Women,D2,2013,Colorado Mesa,"Sigl, Kelsey","Selsor, Sharaya",62
+Women,D1,2013,Oklahoma,"Ellenberg, Aaryn","Hook, Morgan",62
+Men,D1,2015,Lafayette,"Trist, Dan","Lindner, Nick",62
+Women,D3,2016,Stevenson,"Tarbert, Sara","Martinez, Stephanie",62
+Men,D2,2016,Notre Dame (OH),"Vorhees, Will","Gaiter, Tyree",62
+Men,D1,2013,Michigan,"Robinson III, Glenn","Burke, Trey",62
+Women,D1,2014,VCU,"Parks, Robyn","Robinson, Keira",61
+Women,D3,2017,Lancaster Bible,"Goyak, Courtney","Pennell, Krissy",61
+Men,D1,2013,Oakland,"Bader, Travis","Mondy, Duke",61
+Women,D1,2016,Saint Louis,"Stipanovich, Sadie","Kemph, Jackie",61
+Women,D1,2017,Portland St.,"West, Courtney","Bolston, Ashley",61
+Women,D1,2013,Notre Dame,"McBride, Kayla","Diggins, Skylar",61
+Men,D1,2015,Notre Dame,"Auguste, Zach","Grant, Jerian",61
+Women,D1,2013,Omaha,"Frauendorfer, Paige","Nash, Jamie",61
+Women,D1,2016,Grand Canyon,"Gajewski, Jessica","Hayes, Courtney",61
+Men,D1,2016,Milwaukee,"Arians, Austin","Johnson, Jordan",61
 Women,D2,2014,Nova Southeastern,"Wilkins, Jasmine","Russi, Jessica",61
-Women,D1,2016,Mississippi St.,"Vivians, Victoria","William, Morgan",61
+Men,D2,2015,Concord,"Miller, Aaron","Boyd, Mike",61
+Men,D1,2015,Arizona,"Ashley, Brandon","McConnell, T.J.",61
+Men,D1,2014,Providence,"Batts, Kadeem","Cotton, Bryce",61
+Women,D3,2017,Concordia Chicago,"Jacobsen, Taylor","Lofink, Courtney",61
+Men,D1,2013,FGCU,"Fieler, Chase","Comer, Brett",61
+Men,D2,2017,Florida Tech,"Daniel, Sam","Anderson, Patrick",61
+Men,D2,2014,Minn. St. Mankato,"O'Brien, Connor","Monaghan, Zach",61
+Women,D2,2013,Augustana (SD),"Feeney, Alex","Ashley, Shaunteva",61
+Men,D1,2015,Gonzaga,"Wiltjer, Kyle","Pangos, Kevin",61
+Women,D1,2016,Arkansas St.,"Brown-Haywood, Khadija","Gamble, Aundrea",61
+Men,D1,2015,N.C. Central,"McDonald, Anthony","Hilliard, Nimrod",61
+Men,D2,2013,S.C. Aiken,"Zimmerman, Ronald","Nelson, Re'Mon",61
+Women,D1,2014,Winthrop,"Williams, Erica","McClanahan, Dequesha",61
+Women,D1,2017,Colorado St.,"Gustavsson, Elin","Nystrom, Ellen",61
+Women,D1,2014,Loyola Chicago,"Hambric, Troy","Beavers, Ayrealle",61
+Women,D1,2014,Southeastern La.,"Gibson, Aja","Styles, Elizabeth",61
+Men,D2,2015,Augustana (SD),"Richter, Alex","Spencer, Jordan",61
+Women,D1,2017,Middle Tenn.,"Johnson, Alex","Sissom, Abbey",61
+Men,D2,2017,Barry,"Gonzalez, Adrian","Fridriksson, Elvar",60
+Men,D2,2017,Augustana (SD),"Busack, Mike","Spencer, Jordan",60
 Men,D3,2017,Cal Lutheran,"Cole, Austin","Richey, Caleb",60
-Men,D1,2014,Wichita St.,"Early, Cleanthony","VanVleet, Fred",60
-Women,D3,2015,Hope,"McAfee, Maura","Berry, Brittany",60
-Women,D2,2017,Simon Fraser,"Fradgley, Rachel","Kett, Ellen",60
-Women,D2,2017,Alas. Fairbanks,"Wilson, Jordan","Skjold, Kaillee",59
-Women,D1,2013,Baylor,"Griner, Brittney","Hayden, Kimetria",59
-Men,D2,2015,Alas. Anchorage,"Thompson, Travis","McGill, Brian",59
+Women,D2,2015,St. Mary's (TX),"Pullins, Morgan","Elias, Dezirae",60
+Women,D1,2013,South Dakota,"Seekamp, Nicole","Yackley, Alexis",60
+Women,D3,2016,MSOE,"Denfeld, Holly","Kroll, Megan",60
+Men,D1,2017,Louisiana Tech,"McCree, Erik","Bracey, Daquan",60
+Women,D1,2014,Iowa,"Taylor, Theairra","Logic, Samantha",60
+Women,D2,2017,NYIT,"Knollmeyer, Margaret","Vukosavljevic, Nina",60
+Women,D2,2017,Oakland City,"Ubelhor, Maddison","Wilson, Alicia",60
+Men,D1,2013,Baylor,"Austin, Isaiah","Jackson, Pierre",60
+Women,D2,2013,Newberry,"Lepaio, Haylee","Gleeson, Ellie",60
+Women,D1,2014,BYU,"Hamson, Jennifer","Beeston, Kim",60
+Women,D1,2017,New Mexico,"van der Keijl, Richelle","Beynon, Cherise",60
+Men,D2,2016,LIU Post,"Dotson, Greg","Burns, Dillon",60
+Men,D2,2014,Tarleton St.,"Upchurch, De'Andre","Guy, Chuck",60
+Women,D2,2017,Alas. Anchorage,"Williams, Autummn","Robertson, Kiki",60
+Men,D1,2017,UCLA,"Hamilton, Isaac","Ball, Lonzo",60
+Women,D2,2016,Emporia St.,"Ngoie, Sandra","Moten, Kelly",60
+Men,D2,2014,Minnesota St.,"O'Brien, Connor","Monaghan, Zach",60
+Men,D3,2017,SUNY Oneonta,"Coleman, Lawrence","Kelly, Frankie",60
+Women,D1,2013,San Diego St.,"Clements, Courtney","Hopkins, Chelsea",60
+Women,D2,2016,Colorado Mesa,"Adams, Bryanna","Rivera, Laurin",60
+Women,D1,2014,Ole Miss,"Faleru, Tia","McFarland, Valencia",60
+Men,D1,2017,Nevada,"Oliver, Cameron","Marshall, Marcus",60
+Women,D1,2015,Iowa,"Doolitte, Bethany","Logic, Samantha",60
+Women,D1,2017,Saint Louis,"Frantz, Jordyn","Kemph, Jackie",60
+Women,D2,2013,Carson-Newman,"Burstrom, Tatum","McLaughlin, Jai Jai",60
+Women,D2,2013,Dowling,"Wilson, Danielle","Simmons, Connie",60
+Men,D1,2013,Baylor,"Jefferson, Cory","Jackson, Pierre",60
+Men,D2,2014,Florida Tech,"Jackson, Corbin","Carter, Chris",60
+Women,D2,2016,Erskine,"Giles, Kristin","Hendrix, Raygon",59
+Women,D2,2017,Shepherd,"Myers, Liz","Mason, Cara",59
+Men,D1,2014,Iowa St.,"Niang, Georges","Kane, Deandre",59
+Women,D1,2015,Fairleigh Dickinson,"Cruz, Kelsey","Andrades, Amanda",59
+Men,D2,2013,Ala.-Huntsville,"Campbell, Zane","Smith, Jaime",59
+Women,D2,2017,Lander,"McKenith, Mylea","Reynolds, Ty'Hesha",59
+Men,D3,2017,Wheelock,"Fournier, Derek","Fenton, Nicholas",59
+Men,D1,2017,Samford,"Thompson, Alex","Cunningham, Christen",59
+Women,D1,2014,Cal Poly,"Schlemer, Molly","Elegado, Ariana",59
+Men,D1,2015,Murray St.,"Williams, Jarvis","Payne, Cameron",59
+Women,D1,2014,UConn,"Stewart, Breanna","Jefferson, Moriah",59
+Women,D2,2017,Alderson Broaddus,"Parker, Jordan","Clark, Lorin",59
+Women,D2,2015,Davis & Elkins,"Baker, Sharmaine","Wooten, Stephanie",59
+Men,D1,2015,Duke,"Cook, Quinn","Jones, Tyus",59
+Women,D3,2013,Becker,"Mojica, Tatiana","Ooms, Haley",59
+Men,D2,2017,Kutztown,"Lee, Anthony","Ridgeway, Ethan",59
 Men,D1,2013,Kansas,"McLemore, Ben","Johnson, Elijah",59
-Women,D2,2015,West Liberty,"Mohney, Jenn","Howe, Kailee",59
+Women,D1,2014,Florida St.,"Howard, Natasha","Delgado, Yashira",59
+Women,D2,2014,Belmont Abbey,"Owen, Mckenzie","Fox, Candace",59
+Women,D1,2013,St. John's (NY),"Smith, Shenneika","McKenith, Nadirah",59
+Men,D1,2014,Boston U.,"Morris, Dom","Watson Jr., Maurice",59
+Men,D1,2017,Richmond,"Cline, T.J.","Jones, Shawndre'",59
+Men,D1,2013,Michigan,"Hardaway Jr., Tim","Burke, Trey",59
+Women,D3,2017,Dallas,"DeCoud, Michelle","Tonry, Holly",59
+Women,D3,2013,Salve Regina,"Harden, Meaghan","Birrell, Kaitlyn",59
+Women,D1,2015,Quinnipiac,"Driscoll, Val","Abshire, Gillian",59
+Men,D1,2013,Ohio St.,"Thomas, Deshaun","Craft, Aaron",59
+Women,D2,2015,West Liberty,"Southworth, Hillary","Howe, Kailee",59
 Men,D1,2013,Santa Clara,"Trasolini, Marc","Roquemore, Evan",59
-Men,D1,2014,San Diego,"Sanadze, Duda","Anderson, Christopher",58
+Women,D1,2013,Arkansas,"Watkins, Sarah","Berna, Calli",59
+Women,D2,2014,Adelphi,"Mannix, Kelly","Jackson, Sade",59
+Men,D3,2013,Ohio Wesleyan,"Rieger, Taylor","Winters, Andy",59
+Men,D2,2017,Merrimack,"Barry, Anthony","Hayes, Juvaris",59
+Men,D2,2015,American Int'l,"Dobbs, Cameron","Harris, Bobby",59
+Men,D2,2014,Mont. St. Billings,"Mesghna, Jonathan","Hatcher, Kalob",58
+Men,D2,2017,Alas. Fairbanks,"Pederson, Zach","Matlock, Nahjee",58
+Women,D2,2015,Edinboro,"Hippo, Lauren","Lindsay, Laurel",58
+Men,D2,2015,Tampa,"McCrory, Eugene","Davis, Jordan",58
+Women,D1,2013,Boston U.,"Alford, Chantell","Moran, Mo",58
+Men,D1,2015,Alabama A&M,"Tabb, Ladarius","Battle, Rakia",58
+Women,D1,2014,Saint Joseph's,"Gotfrida, Ilze","Cloud, Natasha",58
+Women,D1,2015,West Virginia,"Fields, Averee","Stepney, Linda",58
+Men,D1,2014,UCLA,"Adams, Jordan","Anderson, Kyle",58
+Women,D1,2015,Southeastern La.,"Pool, Ty'Desheaia","Styles, Elizabeth",58
+Men,D1,2013,Kansas St.,"McGruder, Rodney","Rodriguez, Angel",58
+Women,D2,2017,Simon Fraser,"Wilson, Meg","Kett, Ellen",58
+Women,D1,2015,Texas A&M,"Walker, Courtney","Jones, Jordan",58
 Men,D3,2017,Cal Lutheran,"Wood, Wolfgang","Richey, Caleb",58
-Men,D2,2013,Fort Hays St.,"Brunson, Dwayne","Nicholson, Craig",58
-Men,D1,2014,LIU Brooklyn,"Martin, Gerrell","Brickman, Jason",58
+Women,D1,2016,Mercer,"Lawrence, Kahlia","Means, Sydni",58
+Men,D2,2016,Colorado Mesa,"Stephan, Ryan","Lopez, Eimer",58
+Women,D1,2014,Western Ky.,"Gooch, Chastity","Noble, Kendall",58
+Men,D1,2014,Longwood,"Ziegler, Karl","Woodhouse, Lucas",58
+Women,D2,2015,Union (TN),"Risner, Kelsey","Philamlee, Amy",58
+Women,D1,2015,Albany (NY),"Richards, Shereesha","Saunders, Zakiya",58
+Women,D1,2015,Kansas,"Gardner, Chelsea","Knight, Natalie",58
+Women,D1,2015,West Virginia,"Holmes, Bria","Stepney, Linda",58
+Men,D1,2015,North Carolina,"Johnson, Brice","Paige, Marcus",57
 Men,D2,2016,Young Harris,"Waterhouse, Ben","Wilson, C.J.",57
-Men,D2,2014,Alas. Anchorage,"Fossman, Kyle","McGill, Brian",57
-Women,D3,2015,Ozarks (AR),"Hipps, Ashley","Sherrer, Madison",57
-Men,D1,2014,Kentucky,"Young, James","Harrison, Andrew",57
+Women,D1,2017,Saint Louis,"Stipanovich, Sadie","Kemph, Jackie",57
+Women,D3,2016,Salem,"Sheperd, Sabrina","Seivers, Mikayla",57
+Men,D1,2016,Saint Joseph's,"Miles, Isaiah","Bembry, Deandre",57
+Men,D1,2014,St. Francis Brooklyn,"Cannon, Jalen","Jones, Brent",57
+Men,D2,2014,Tex. A&M Int'l,"Donaldson, Damal","Culliver Jr., Matthew",57
+Women,D2,2013,Bridgeport,"Carter, Tanisha","Patterson, Aziza",57
+Women,D3,2017,Rutgers-Newark,"Ashby, Faith","Simmons, Maria",57
+Women,D2,2013,Anderson (SC),"Ahlin, Tilde","Diaz, Alissa",57
+Women,D1,2015,UConn,"Stewart, Breanna","Jefferson, Moriah",57
+Men,D3,2017,SUNY Oneonta,"McElroy, Mikey","Kelly, Frankie",57
+Men,D1,2014,New Mexico,"Bairstow, Cameron","Williams, Kendall",57
+Women,D1,2014,Iowa,"Dixon, Melissa","Logic, Samantha",57
+Women,D3,2013,Carthage,"Corcoran, Cailee","Kuzmanic, Stephanie",57
+Women,D1,2017,UCLA,"Billings, Monique","Canada, Jordin",57
+Men,D1,2014,Iowa St.,"Ejim, Melvin","Kane, Deandre",57
+Women,D3,2015,Berry,"Cook, Emma","Segarra, Chanlir",57
 Women,D1,2017,Drexel,"Curran, Sarah","Creighton, Meghan",57
-Women,D2,2013,Wingate,"Williams, Janitsha","Wollett, Sarah",57
-Men,D1,2014,Kansas,"Ellis, Perry","Tharpe, Naadir",57
-Men,D1,2014,North Carolina St.,"Warren, T.J.","Barber, Anthony 'Cat'",56
-Men,D1,2015,LSU,"Martin, Jarell","Quarterman, Tim",56
-Men,D1,2013,Notre Dame,"Cooley, Jack","Grant, Jerian",56
-Women,D1,2013,Notre Dame,"Loyd, Jewell","Diggins, Skylar",55
-Men,D3,2013,Emory,"Greven, Alex","Florin, Michael",55
-Women,D2,2015,Adelphi,"Mannix, Kelly","Tran, Anh-Dao",55
-Women,D2,2014,Nova Southeastern,"Buie, Taylor","Russi, Jessica",55
-Men,D3,2015,Albertus Magnus,"Ljuljdjuraj, Victor","Davis, Eian",55
-Women,D2,2017,Western Wash.,"Peacocke, Taylor","Valley, Jessica",54
-Men,D1,2014,Arizona,"Gordon, Aaron","McConnell, T.J.",54
-Men,D1,2014,Canisius,"Heath, Jordan","Baron, Billy",54
-Men,D1,2014,LIU Brooklyn,"Reed, E.J.","Brickman, Jason",54
-Men,D2,2013,Fort Hays St.,"Congiusta, Ben","Nicholson, Craig",54
-Men,D1,2013,Duke,"Curry, Seth","Cook, Quinn",54
-Men,D1,2014,Arizona,"Johnson, Nick","McConnell, T.J.",54
-Women,D1,2017,Boise St.,"Vanderschaaf, Marijke","Rodrigeuz, Yaiza",54
-Men,D1,2017,Michigan,"Wagner, Moritz","Walton Jr., Derrick",53
-Men,D3,2017,John Carroll,"Kucharewicz, Simon","Linane, David",53
+Women,D1,2013,Oklahoma St.,"Young, Toni","Bias, Tiffany",57
+Women,D1,2014,Iowa St.,"Christofferson, Hallie","Moody, Nikki",57
+Women,D1,2016,Mississippi St.,"Vivians, Victoria","William, Morgan",57
+Women,D1,2014,Col. of Charleston,"Frye, Alyssa","Brown, Jillian",57
+Women,D2,2016,Kutztown,"Watson, Kelsey","Lee, Natalya",57
+Men,D2,2016,Notre Dame (OH),"Taylor, Kyauta","Gaiter, Tyree",57
+Women,D1,2013,Maryland,"Hawkins, Tianna","Thomas, Alyssa",57
+Women,D1,2014,DePaul,"Rogowski, Megan","Hrynko, Brittany",57
+Women,D3,2016,Wash. & Jeff.,"Bellhy, Beka","Moore, Amirah",57
+Women,D1,2014,Winthrop,"Wright, Samiya","McClanahan, Dequesha",57
+Men,D3,2015,Cabrini,"Green, Jair","Walton-Moss, Aaron",57
+Men,D1,2017,Houston,"Dotson, Damyean","Robinson, Jr., Galen",57
+Women,D2,2017,California Baptist,"Nelson, Courtney","Diaz, Kamille",57
+Women,D2,2013,Newberry,"Lepaio, Haylee","Pearson, Zara",57
+Men,D3,2013,Bowdoin,"Pieri, Keegan","Hurley, Bryan",57
+Women,D3,2016,Thomas More,"Moss, Sydney","Owings, Abby",57
+Women,D1,2014,Wright St.,"Demmings, Kim","Mingo, Tay'Ler",57
+Men,D1,2017,N.C. Central,"Madison, Rashaun","Graf, Dajuan",57
+Men,D1,2015,N.C. Central,"Parks, Jordan","Hilliard, Nimrod",57
+Women,D1,2016,Rutgers,"Scaife, Tyler","Canty, Briyona",57
+Men,D3,2016,Ohio Northern,"Thress, Aron","Hurless, Joey",57
+Women,D1,2016,UMBC,"Wilson, Pandora","McCarley, Taylor",57
+Women,D2,2013,Holy Family,"Mann, Erin","Hanlon, Molly",57
+Women,D2,2016,Paine,"Wilkerson, Janisha","Watts, Ashley",57
+Men,D1,2014,Temple,"Pepper, Dalton","Cummings, Will",56
+Men,D1,2016,Duquesne,"Mason, Micah","Colter, Derrick",56
+Women,D2,2014,Daemen,"Stilwell, Raeann","Stoddard, Lindsay",56
+Women,D3,2016,Lehman,"Navarro, Jennifer","Del Rosario, Amely",56
+Men,D1,2017,Santa Clara,"Brownridge, Jared","Hauser, Matt",56
+Women,D1,2013,Baylor,"Griner, Brittney","Hayden, Kimetria",56
+Women,D3,2017,Johnson & Wales (RI),"Thompson, Ashley","Pederzani, Raquel",56
+Women,D2,2015,Indiana (PA),"Stamp, Lindsay","Mathe, Marita",56
+Men,D1,2014,West Virginia,"Harris, Eron","Staten, Juwan",56
+Women,D1,2016,UCLA,"Billings, Monique","Canada, Jordin",56
+Men,D3,2017,Wis. Lutheran,"Nowak, Chase","Schieve, Tanner",56
+Men,D1,2017,Arizona St.,"Graham, Torian","Evans II, Shannon",56
+Women,D2,2017,Catawba,"Rogers, Terri","Brown, Serena",56
+Men,D2,2017,Kutztown,"Johnson, Josh","Ridgeway, Ethan",56
+Men,D2,2015,Saginaw Valley,"Turnage, Calvin","Smith, Kellen",56
+Women,D3,2015,Ozarks (AR),"Hipps, Ashley","Sherrer, Madison",56
+Men,D2,2015,West Liberty,"Bonifant, Seger","Faithfull, Indiana",56
+Women,D1,2013,Hofstra,"Evans, Shante","Thomas, Andreana",56
+Women,D3,2015,Widener,"Gallagher, Allison","Ferrucci, Ally",56
+Men,D2,2013,Southwest Baptist,"Hooks, Damion","Guot, Preston",56
+Men,D1,2016,North Florida,"Beech, Beau","Moore, Dallas",56
+Women,D1,2016,Temple,"Butts, Alliya","Fitzgerald, Feyonda",56
+Women,D3,2014,Scranton,"Mesaris, Meredith","Fluehr, Lindsay",56
+Women,D3,2016,Kean,"Bacon, Marajiah","Owens, Jaquetta",56
+Women,D1,2017,Northern Ill.,"Woods, Courtney","Lehman, Ally",56
+Women,D1,2015,Iowa St.,"Johnson, Seanna","Moody, Nikki",56
+Men,D2,2015,Lincoln Memorial,"Choice, Luquon","Ross, Lorenza",56
+Men,D1,2014,Murray St.,"Williams, Jarvis","Payne, Cameron",56
+Women,D1,2016,Lipscomb,"Southern, Ashley","Cagle, Loren",56
+Men,D2,2013,Young Harris,"Adams, Frank","Martin, Vince",56
+Women,D2,2016,West Liberty,"Olkosky, Johnie","Howe, Kailee",56
+Men,D1,2015,Notre Dame,"Connaughton, Pat","Grant, Jerian",56
+Men,D2,2015,Augustana (SD),"Jansen, Daniel","Spencer, Jordan",55
+Men,D2,2017,UVa-Wise,"Sousa, Dimitri","Seals, Michal",55
+Women,D3,2017,Kean,"Bacon, Marajiah","Owens, Jaquetta",55
+Men,D1,2013,New Orleans,"Cook, Lovell","Nelson, Rarlensee",55
+Women,D2,2014,Wayne St. (NE),"Yossi, Ashton","Roller, Addy",55
+Men,D1,2013,FGCU,"Thompson, Bernard","Comer, Brett",55
+Men,D1,2014,Southeast Mo. St.,"Bradley, Jarekious","Nutt, Lucas",55
+Men,D1,2016,UNI,"Bohannon, Matt","Washpun, Wes",55
+Men,D1,2015,Oakland,"Petros, Corey","Felder, Kahlil",55
+Women,D1,2015,Louisiana Tech,"Frazier, Whitney","Walter, Chrisstasia",55
+Men,D1,2013,Ole Miss,"Henderson, Marshall","Summers, Jarvis",55
+Men,D2,2015,Bluefield St.,"Reno, Dajon","Durgan, Mark",55
+Women,D1,2014,Manhattan,"Roeder, Monica","Skrec, Allison",55
+Women,D1,2017,Valparaiso,"Franklin, Dani","Schaub, Hannah",55
+Men,D1,2013,St. Mary's (CA),"Waldow, Brad","Dellavedova, Matthew",55
+Women,D3,2013,Suffolk,"Ruys, Jennifer","Vienneau, Jaqueline",55
+Men,D1,2014,Wichita St.,"Early, Cleanthony","VanVleet, Fred",55
+Men,D1,2013,Stony Brook,"Warney, Jameel","Brenton, Tommy",55
+Men,D1,2016,Montana,"Breunig, Martin","Wright, Walter",55
+Women,D2,2016,NYIT,"Ragab, Dina","Vukosavljevic, Nina",55
+Women,D2,2014,Bentley,"Battista, Lauren","Bakolas, Christiana",55
+Men,D3,2017,Texas-Dallas,"Coulter, Kyle","Banks, Caleb",55
+Men,D1,2013,Utah Valley,"Aird, Ben","Thompson, Nick",55
+Women,D1,2015,Arkansas,"Jackson, Jessica","Berna, Calli",55
+Men,D3,2017,Mitchell,"Santiago, Domenico","Morgan, Alan",55
+Men,D1,2015,St. Francis Brooklyn,"Cannon, Jalen","Jones, Brent",55
+Women,D3,2013,King's (PA),"Rader, Celia","Michaels, Katlin",55
+Women,D1,2013,Auburn,"Alverson, Blanche","Ouardad, Najat",55
+Women,D1,2013,Providence,"Rule, Tori","Roberts, Symone",55
+Men,D3,2016,Catholic,"Howard, Jay","Fonville, Bryson",55
+Men,D1,2016,Virginia,"Brogdon, Malcolm","Perrantes, London",55
+Men,D3,2015,Alvernia,"Cooper, Charles","Clark, Lamont",55
+Men,D3,2015,Washington-St. Louis,"Burt, Nick","Fatoki, David",55
+Men,D2,2014,Minn. St. Mankato,"Adler, Tanner","Monaghan, Zach",55
+Men,D1,2014,Northwestern St.,"Woodley, Zeek","West, Jalan",55
+Men,D2,2017,Northwest Mo. St.,"Schneider, Zach","Pitts, Justin",55
+Men,D2,2016,King (TN),"Good, C.J.","Walker, Calvin",55
+Women,D3,2016,Carnegie Mellon,"Murphy, Lisa","Mayberger, Jenn",55
+Women,D1,2014,Albany (NY),"Richards, Shereesha","Royals, Sarah",55
+Men,D2,2014,St. Anselm,"Mabrey, Roy","Mallios, Dino",55
+Women,D1,2013,Georgia Tech,"Marshall, Tyaunna","Maye, Dawnn",55
+Men,D2,2013,Post,"Krischer, Zach","Wilcox, Jake",55
+Women,D1,2015,Saint Louis,"Stipanovich, Sadie","Kemph, Jackie",55
+Men,D2,2015,MSU Moorhead,"Sevlie, Isaac","Riewer, Jordan",55
+Women,D1,2015,Iona,"Robinson, Aaliyah","Lizarazu, Marina",55
+Women,D1,2017,Minnesota,"Wagner, Carlie","Bell, Kenisha",55
+Men,D1,2016,Valparaiso,"Peters, Alec","Carter, Keith",55
+Women,D3,2014,Wm. Paterson,"Jeter, Dana","Borova, Floriana",54
+Women,D1,2013,Butler,"McClung, Daress","Schippers, Taylor",54
+Women,D1,2017,Michigan,"Thome, Hallie","Thompson, Siera",54
+Women,D3,2014,Thomas More,"Burgoyne, Jenny","Beasley, Devin",54
+Women,D3,2017,Pitt.-Greensburg,"Oddis, Kelsey","Baer, Lyndy",54
+Men,D3,2017,Staten Island,"Baum, Khaleeq","Schettino, Frank",54
+Women,D1,2016,Middle Tenn.,"Edwards, Brea","Petty, Ty",54
+Women,D1,2016,Northwestern,"Inman, Christen","Deary, Ashley",54
+Women,D1,2017,St. John's (NY),"Wellere, Akina","Lewis, Aaliyah",54
+Men,D2,2017,Indiana (PA),"Diaz, Jacobo","Lombardi, Dante",54
+Women,D2,2013,Cameron,"Stamp, Chelsea","Harris, Brittany",54
+Women,D1,2016,Eastern Wash.,"Hodgins, Hayley","Phillips, Tisha",54
+Women,D3,2016,Pitt.-Bradford,"Rinfrette, Ali","Brate, Abby",54
+Men,D2,2013,St. Mary's (TX),"Taylor, Daryell","Bower, Christian",54
+Women,D2,2013,Charleston (WV),"Cowden, Jessi","Keir, Chrissy",54
+Women,D2,2013,Wayne St. (NE),"Yossi, Ashton","Roller, Addy",54
+Women,D1,2014,Tulane,"Dale, Tiffany","Kaplan, Jamie",54
+Men,D2,2015,Tampa,"Rettig, Austin","Davis, Jordan",54
+Men,D1,2017,St. Mary's (CA),"Landale, Jock","Naar, Emmett",54
+Women,D2,2017,Catawba,"Johnson, Bri","Brown, Serena",54
+Men,D2,2015,Bellarmine,"Thelen, Jake","Whitehead, Chris",54
+Women,D1,2015,Saint Joseph's,"Fairbanks, Sarah","Cloud, Natasha",54
+Men,D1,2014,Georgia St.,"Hunter, R.J.","Harrow, Ryan",54
+Women,D2,2013,Benedict,"Thompson, Ashley","Jones, Alexus",54
+Men,D2,2017,Kentucky St.,"Smith, Malcolm","Jordan, Dorian",54
+Women,D2,2015,Adelphi,"Mannix, Kelly","Tran, Anh-Dao",54
+Women,D1,2014,Oklahoma St.,"Donohoe, Liz","Bias, Tiffany",54
+Men,D2,2017,Gannon,"Jackson, Zay","Berger, Jimmy",54
+Women,D3,2014,York (PA),"Hicks, Brittany","Wallpher, Aja",54
+Women,D1,2016,BYU,"Rydalch, Lexi","Purcell, Kalani",54
+Men,D1,2016,Omaha,"White, Jake","Hollins, Tra-Deon",54
+Women,D1,2016,George Washington,"Washington, Caira","Chase, Lauren",54
+Men,D2,2014,Minnesota St.,"Adler, Tanner","Monaghan, Zach",54
+Women,D1,2015,Denver,"Van Riper-Rose, Morgan","Bradley, Paige",54
+Men,D1,2016,Oklahoma,"Hield, Buddy","Cousins, Isaiah",54
+Women,D2,2013,Augustana (SD),"Tinklenberg, Faith","Shulte, Emily",54
+Women,D1,2014,Quinnipiac,"Guastella, Samantha","Abshire, Gillian",54
+Men,D1,2016,Baylor,"Prince, Taurean","Medford, Lester",54
+Women,D2,2016,Arkansas Tech,"Adams, Fatima","Brooks, Bre",54
+Women,D2,2017,Caldwell,"Drogsler, Kristen","Sanders, Sharell",54
+Women,D1,2013,Iowa,"Johnson, Morgan","Logic, Samantha",54
+Women,D1,2013,Nicholls St.,"Allen, Alisha","Babin, Kk",54
+Women,D2,2016,California (PA),"Barrett, Seairra","Glenn, Miki",54
+Women,D1,2014,Fairfield,"Cizynski, Katie","DaCruz, Felicia",54
+Men,D1,2014,SMU,"Kennedy, Markus","Moore, Nic",54
+Men,D1,2016,A&M-Corpus Chris,"Thomas, Rashawn","Ali, Hameed",54
+Women,D1,2017,UCLA,"Burke, Kennedy","Canada, Jordin",54
+Men,D3,2015,Albertus Magnus,"Ljuljdjuraj, Victor","Davis, Eian",54
+Men,D1,2017,Notre Dame,"Beachem, V.J.","Farrell, Matt",54
+Women,D3,2017,Montclair St.,"Sire, Katie","Tobie, Kate",54
+Women,D1,2017,Bryant,"Klein, Alexandria","Palmer, Kierra",54
+Women,D1,2016,Rice,"Goodwine, Jasmine","Hawkins, Maya",54
+Women,D3,2016,Randolph-Macon,"Livermon, Hannah","Hester, Khajae",54
+Women,D1,2017,Notre Dame,"Mabrey, Marina","Allen, Lindsay",53
+Women,D1,2014,Milwaukee,"Young, Avyanna","Rodriguez, Angela",53
+Women,D1,2013,Notre Dame,"Loyd, Jewell","Diggins, Skylar",53
+Women,D1,2017,Indiana,"Cahill, Amanda","Buss, Tyra",53
+Men,D3,2013,Emory,"Greven, Alex","Florin, Michael",53
+Men,D1,2015,Louisiana Tech,"Kyser, Michale","Smith, Kenneth",53
+Women,D1,2014,SMU,"Simpson, Akil","Mays, Keena",53
+Men,D2,2017,Quincy,"Washington, Von","Senor, Herm",53
+Women,D1,2016,Sam Houston St.,"Beadle, Angela","Robertson, Shernise",53
+Men,D2,2017,Johnson C. Smith,"Davis III, Robert","Kirchman, Christian",53
+Men,D1,2013,Tulane,"Callahan, Jordan","Tarrant, Ricky",53
+Women,D1,2014,Oklahoma St.,"Martin, Brittney","Bias, Tiffany",53
+Women,D1,2014,Nebraska,"Cady, Emily","Theriot, Rachel",53
+Men,D2,2016,Ferris St.,"Stolicker, Jared","Fleming, Josh",53
+Men,D1,2015,Central Mich.,"Simons, John","Fowler, Chris",53
+Women,D3,2014,Vassar,"Senftleber, Hannah","Matsuoka, Cydni",53
+Men,D2,2015,Metro St.,"Kay, Nicholas","McCarron, Mitch",53
+Men,D3,2017,Mitchell,"Young, Brayvon","Morgan, Alan",53
+Women,D3,2015,Brooklyn,"D'Ambrosi, Vanessa","Francomano, Nicole",53
+Men,D1,2017,UConn,"Purvis, Rodney","Adams, Jalen",53
+Women,D1,2017,Massachusetts,"Mulligan, Maggie","McDerment, Leah",53
+Men,D1,2013,N.C. Central,"Kidd, Stanton","Chapman, Emanuel",53
+Women,D1,2013,Northwestern,"Hackney, Kendall","Roser, Karly",53
+Women,D1,2016,Drexel,"Pearson, Rachel","Creighton, Meghan",53
+Men,D1,2015,Rice,"Gearhart, Seth","Guercy, Max",53
+Women,D2,2017,Flagler,"Hodge, Tiffany","Alford, Alex",53
+Men,D3,2017,SUNY Canton,"Fletcher, Romario","Annorh, Sam",53
+Men,D1,2017,Iowa St.,"Mitrou-Long, Nazareth","Morris, Monté",53
+Men,D2,2013,Young Harris,"Jackson, Malcolm","Martin, Vince",53
+Women,D1,2016,Colorado St.,"Patrick, Jamie","Nystrom, Ellen",53
+Women,D2,2016,Mercyhurst,"Piaggesi, Natalie","Heintz, Angela",53
+Men,D1,2017,Providence,"Bullock, Rodney","Cartwright, Kyron",53
+Men,D1,2013,Samford,"Williams, Tim","Kelly, Raijon",53
+Women,D2,2014,Nova Southeastern,"Buie, Taylor","Russi, Jessica",53
+Men,D1,2013,Sacred Heart,"Montes, Louis","Gaetano, Phil",53
+Women,D1,2013,Eastern Ill.,"King, Mariah","Nixon, Ta'Kenya",53
+Women,D1,2014,DePaul,"Rogowski, Megan","Jenkins, Chanise",53
+Women,D2,2013,Bentley,"Roberson, Kelsey","Bakolas, Christiana",53
+Men,D3,2014,Alvernia,"Bennett, Kahlil","Davis, Christopher",53
+Women,D1,2014,Florida St.,"Jones, Morgan","Delgado, Yashira",53
+Women,D2,2015,Shaw,"Warner, Verdine","Brooks, Micah",53
+Men,D1,2015,Miami (FL),"McClellan, Sheldon","Rodriguez, Angel",53
+Women,D1,2015,Wright St.,"Stucke, Breanna","Mingo, Tay'Ler",53
+Women,D3,2013,Howard Payne,"Marrs, Dana","Donahoo, Tresta",53
+Women,D1,2014,Montana St.,"Hommes, Jasmine","Cole, Ausha",53
+Women,D1,2017,UConn,"Samuelson, Katie Lou","Williams, Gabby",53
+Women,D2,2013,Bluefield St.,"Mebane, Shaequan","Harris, Charity",53
+Men,D2,2013,Fort Hays St.,"Congiusta, Ben","Nicholson, Craig",53
+Men,D1,2014,Mercer,"Coursey, Daniel","Hall, Langston",53
+Men,D3,2016,Benedictine (IL),"Johnson, Luke","Harvey, Tahron",53
+Women,D2,2013,Wis.-Parkside,"Endisch, Jenna","West, Sierra",53
+Men,D1,2014,Toledo,"Pearson, Rian","Brown, Julius",53
+Women,D2,2015,Hawaii Pacific,"Peone, Chenise","Huerta, Kylie",53
+Men,D1,2013,FGCU,"Brown, Sherwood","Comer, Brett",53
+Women,D1,2016,Washington,"Walton, Talia","Plum, Kelsey",53
 Men,D1,2013,Louisiana Tech,"Appleby, Raheem","Smith, Kenneth",53
-Women,D2,2017,Alas. Anchorage,"Thompson, Tara","Robertson, Kiki",53
-Women,D2,2016,Alas. Anchorage,"Buchanan, Jenna","Robertson, Kiki",53
+Women,D1,2016,UNI,"Sorenson, Amber","Lamar, Sharnae",53
+Men,D2,2015,Western Ore.,"Avgi, Andy","Nichols, Julian",53
+Women,D1,2015,Northern Ariz.,"Anderson, Raven","Lusain, Brittani",53
+Men,D1,2017,Marshall,"Loop, Austin","Elmore, Jon",53
+Men,D1,2013,Savannah St.,"Hassan, Rashad","Blackman, Preston",53
+Women,D1,2014,Sam Houston St.,"Beadle, Angela","Johnson, Jasmine",53
+Men,D1,2013,Central Mich.,"Randall, Kyle","Fowler, Chris",53
+Men,D2,2017,Minot St.,"Rudolph, Tyler","Maia, Luis Felipe Ricci",53
+Women,D3,2014,Becker,"Mojica, Tatiana","Ooms, Haley",53
+Women,D3,2016,Baruch,"Kennedy, Jacqueline","Podlovits, Kristen",53
+Women,D1,2013,Omaha,"Blair-Mobley, Carolyn","Nash, Jamie",53
+Men,D1,2017,St. Mary's (CA),"Landale, Jock","Rahon, Joe",53
+Women,D1,2014,Tulane,"Blagg, Danielle","Kaplan, Jamie",53
+Men,D1,2017,Illinois St.,"Hawkins, Deontae","Lee, Paris",52
+Women,D2,2013,Bridgeport,"Dodoo, Priscilla","Patterson, Aziza",52
+Men,D2,2014,Minn. St. Mankato,"Wooten, Gage","Monaghan, Zach",52
+Men,D3,2014,Wheelock,"Williams, Anthony","Fenton, Nicholas",52
+Men,D2,2014,Barry,"Barrueta, Yunio","Hill, Deric",52
 Women,D1,2017,Duke,"Greenwell, Rebecca","Brown, Lexie",52
-Men,D1,2015,Washington,"Andrews, Andrew","Williams-Goss, Nigel",52
-Men,D1,2015,Duke,"Okafor, Jahlil","Jones, Tyus",52
-Women,D1,2017,Texas A&M,"Howard, Anriel","Knox, Curtyce",52
-Men,D1,2013,North Carolina,"Bullock, Reggie","Paige, Marcus",52
-Men,D2,2014,Alas. Anchorage,"Thompson, Travis","McGill, Brian",52
-Men,D1,2014,Boston U.,"Papale, John","Watson Jr., Maurice",52
+Men,D1,2013,Providence,"Cotton, Bryce","Council, Vincent",52
+Men,D3,2014,Hobart and William Colleges,"Bonney, Richie","Blanding, Trey",52
+Men,D3,2014,Hobart,"Bonney, Richie","Blanding, Trey",52
+Women,D1,2016,Grand Canyon,"Hedrington, Cheyenne","Hayes, Courtney",52
+Men,D2,2015,MSU Moorhead,"Lien, Aaron","Riewer, Jordan",52
+Women,D1,2016,Youngstown St.,"Arbanas, Nikki","Benjamin, Indiya",52
+Men,D1,2017,Villanova,"Hart, Josh","Brunson, Jalen",52
+Men,D3,2015,Hilbert,"Owens, Jerame","Stark, Trevor",52
+Women,D1,2015,Siena,"Donohue, Meghan","Krogh, Ida",52
+Women,D1,2014,Quinnipiac,"McQuain, Brittany","Abshire, Gillian",52
+Women,D2,2013,Wingate,"Dunbar, Chantal","Wollett, Sarah",52
+Men,D1,2015,North Carolina St.,"Turner, Ralston","Barber, Anthony 'Cat'",52
+Women,D2,2013,Simon Fraser,"Raincock-Ekunwe, Nayo","Collins, Kristina",52
+Men,D1,2017,Omaha,"Tyus, Marcus","Hollins, Tra-Deon",52
+Men,D1,2016,Iowa,"Jok, Peter","Gesell, Mike",52
+Women,D3,2015,Colorado Col.,"Davis, Danielle","Tyus, Courtney",52
+Women,D3,2015,Ursinus,"Porada, Jessica","Polimeni, Alyssa",52
+Men,D2,2014,Charleston (WV),"Humphrey, Xavier","Douglas, Denzel",52
+Men,D1,2014,Providence,"Henton, Ladontae","Cotton, Bryce",52
+Women,D2,2017,St. Joseph's (IN),"Parks, Kalea","Morris, Brittany",52
+Men,D1,2017,Notre Dame,"Colson, Bonzie","Farrell, Matt",52
+Men,D1,2013,UNLV,"Bennett, Anthony","Marshall, Anthony",52
+Women,D2,2013,Emporia St.,"Patrick, Laura","Egli, Rheanna",52
+Women,D2,2013,Fort Hays St.,"Lehman, Kate","Edwards, Katelyn",52
+Women,D2,2013,Caldwell,"Caswell, Emily","Jones, Torey",52
+Men,D1,2015,Eastern Mich.,"Ward, Karrington","Talley, Mike",52
+Women,D1,2015,Hartford,"Bepko, Amber","Mayza, Deanna",52
+Women,D2,2014,Concordia-St. Paul,"Wolyniec, Carissa","Hansen, Rachel",52
+Men,D1,2017,St. Bonaventure,"Gregg, Denzel","Adams, Jaylen",52
+Men,D2,2017,Christian Bros.,"Larkin, Jeff","Dieball, Adam",52
+Men,D1,2016,Milwaukee,"Springs, Akeem","Johnson, Jordan",52
+Women,D1,2014,Vanderbilt,"Foggie, Christina","Lister, Jasmine",52
+Women,D2,2013,Belmont Abbey,"Midkiff, Morgan","Fox, Candace",52
+Men,D1,2016,Southern U.,"Rodgers, Adrian","Hyder, Christopher",52
+Women,D1,2017,Hofstra,"Durant, Ashunae","Luciano, Krystal",52
+Men,D1,2017,Stetson,"Doyle, Luke","Rivera, Angel",52
+Women,D1,2014,Baylor,"Davis, Nina","Sims, Odyssey",52
+Men,D1,2016,Georgia,"Maten, Yante","Frazier, J.J.",52
+Women,D1,2015,East Carolina,"Payne, Jada","Ebron, Janesha",52
+Men,D3,2015,Skidmore,"Merrill, Connor","Medunjanin, Aldin",52
+Women,D2,2013,Wingate,"Bonner, Kelli","Wollett, Sarah",52
+Men,D2,2017,Delta St.,"Warner, Brett","Schmidt, Devin",52
+Men,D2,2017,Young Harris,"Waterhouse, Ben","Wilson, C.J.",52
+Women,D3,2016,Defiance,"Tietje, Kelsey","Schalk, Whitney",52
+Men,D2,2014,Minnesota St.,"Wooten, Gage","Monaghan, Zach",52
+Women,D2,2013,Young Harris,"Johnson, Ladondra","Smith, Lauren",52
+Women,D1,2015,Lafayette,"Homan, Emily","O'Hare, Jamie",52
+Women,D1,2017,Idaho,"Ferenz, Mikayla","Wilson, Karlee",52
+Women,D1,2014,CSUN,"Lister, Cinnamon","Guay, Ashlee",52
+Men,D1,2017,UMBC,"Darley, Will","Maura, K.J.",52
+Women,D1,2014,Purdue,"Moses, Courtney","Houser, KK",52
+Women,D2,2016,Lubbock Christian,"Bruffey, Tess","Hampton, Nicole",52
+Women,D1,2014,Stanford,"Ogwumike, Chiney","Ruef, Mikaela",52
+Men,D2,2014,St. Anselm,"McCahey, Mike","Mallios, Dino",52
+Women,D2,2013,Augustana (SD),"Feeney, Alex","Shulte, Emily",52
+Women,D1,2014,Southern Miss.,"Clemons, Jerontay","Faulkner, Jamierra",52
+Women,D1,2017,West Virginia,"Montgomery, Lanay","Muldrow, Teana",52
+Women,D1,2017,Iona,"Lewis, Alexis","Lizarazu, Marina",52
+Women,D1,2013,BYU,"Hamson, Jennifer","Steed, Haley",52
+Women,D1,2017,Detroit Mercy,"Cohen, Brianne","Reynolds, Rosanna",52
+Women,D1,2014,VCU,"Thorpe, Isis","Robinson, Keira",52
+Women,D1,2014,Hampton,"Bennett, Alyssa","Hamilton, Nicole",52
+Men,D1,2013,Oakland,"Petros, Corey","Mondy, Duke",52
+Men,D1,2013,Syracuse,"Triche, Brandon","Carter-Williams, Michael",52
+Men,D1,2017,Ohio,"Dartis, Jordan","Simmons, Jaaron",52
+Women,D1,2014,Eastern Ill.,"Oroszova, Sabina","Crunk, Jordyne",51
+Women,D3,2016,Old Westbury,"Robinson, Jasmine","Pentz, Raven",51
+Women,D2,2013,Brevard,"Brackett, Tuccoa","Watkins, Asheley",51
+Women,D3,2015,Mt. St. Vincent,"Carroll, Brittany","Barone, Christina",51
+Women,D1,2013,Oral Roberts,"Cooper, Taylor","Bigham, Jaci",51
+Women,D1,2014,Fordham,"Corning, Abigail","Rooney, Erin",51
+Women,D1,2014,Stanford,"Ogwumike, Chiney","Thompson, Lili",51
 Men,D2,2015,Ala.-Huntsville,"Webster, Seab","Gardner, Greg",51
-Men,D2,2014,Simon Fraser,"Cole, Justin","Niang, Sango",51
-Women,D2,2017,Alas. Fairbanks,"Wilson, Jordan","Milton, Victoria",51
-Men,D1,2016,Arkansas St.,"Carter, Devin","Thomas, Donte",51
-Women,D2,2016,Alas. Fairbanks,"Wilson, Jordan","Skjold, Kaillee",51
+Women,D1,2013,Syracuse,"Alexander, Kayla","Coffey, Rachel",51
+Men,D1,2015,UConn,"Brimah, Amida","Hamilton, Daniel",51
+Men,D1,2017,Belmont,"Bradds, Evan","Luke, Austin",51
+Women,D1,2013,Iowa St.,"Prins, Anna","Moody, Nikki",51
+Women,D1,2015,Niagara,"McGuinness, Meghan","Van Leeuwen, Kelly",51
+Men,D3,2016,NYU,"Gontikas, Costis","Udine, Ross",51
+Women,D2,2013,Tex. Permian Basin,"Ards, Taniqua","King, Teisha",51
+Women,D1,2014,Ill.-Chicago,"Hannemann, Katie","Bender, Terri",51
+Men,D1,2015,Buffalo,"Moss, Justin","Bearden, Lamonte",51
+Women,D2,2016,Virginia Union,"Bell, Rahni","Johnson, Kiana",51
+Women,D2,2017,Bentley,"Gemma, Jen","Smith, Macchi",51
+Men,D1,2014,North Carolina St.,"Warren, T.J.","Lewis, Tyler",51
+Men,D3,2016,Pitt.-Bradford,"Greening, Evan","Matheson, Eric",51
+Women,D3,2017,Westfield St.,"Valley, Jill","Moussette, Chelsea",51
+Women,D1,2014,Sacramento St.,"Gennett, Hallie","Hilliard, Fantasia",51
+Women,D2,2013,Angelo St.,"Holt, Lauren","Oliver, Haylee",51
+Men,D2,2014,Daemen,"Beverly, Gerald","Sheehan, Casey",51
+Men,D1,2014,UConn,"Daniels, Deandre","Napier, Shabazz",51
+Men,D1,2014,San Diego,"Sanadze, Duda","Anderson, Christopher",51
+Women,D1,2014,Baylor,"Davis, Nina","Johnson, Niya",51
+Men,D3,2017,Middlebury,"St. Amour, Matt","Brown, Jake",51
+Women,D2,2016,Cal St. East Bay,"Breshers, Tori","Effenberger, Laci",51
+Women,D1,2013,Quinnipiac,"Barron, Felicia","Abshire, Gillian",51
+Men,D2,2017,Pitt.-Johnstown,"Vescovi, Isaac","Clancy, Jr., Dale",51
+Women,D3,2014,Kean,"Smith, Simone","Owens, Jaquetta",51
+Men,D1,2016,North Florida,"Mackey, Trent","Moore, Dallas",51
+Men,D1,2017,North Carolina,"Jackson, Justin","Berry II, Joel",51
+Women,D1,2014,Georgia St.,"Long, Kendra","Andrews, Alisha",51
+Men,D1,2014,Duke,"Parker, Jabari","Cook, Quinn",51
+Men,D2,2013,Fort Hays St.,"Brunson, Dwayne","Nicholson, Craig",51
+Men,D1,2016,Michigan St.,"Costello, Matt","Valentine, Denzel",51
+Women,D3,2015,Thomas More,"Moss, Sydney","Wainscott, Sydni",51
+Women,D1,2014,Arkansas St.,"Morrill, Jane","Gamble, Aundrea",51
+Men,D3,2016,Nazareth,"Ford, Mitch","Stenglein, Tyler",51
+Men,D1,2014,LIU Brooklyn,"Martin, Gerrell","Brickman, Jason",51
+Men,D3,2017,Wis. Lutheran,"Kennedy, Collin","Schieve, Tanner",51
+Men,D1,2013,Syracuse,"Southerland, James","Triche, Brandon",51
+Women,D2,2017,California (PA),"Barrett, Seairra","Glenn, Miki",51
+Men,D1,2017,Norfolk St.,"Wade, Jonathan","Robinson, Zaynah",51
+Men,D2,2013,St. Anselm,"Mabrey, Roy","Mallios, Dino",51
+Women,D2,2015,West Liberty,"Mohney, Jenn","Howe, Kailee",51
+Women,D2,2015,Belmont Abbey,"Owen, Mckenzie","Midkiff, Morgan",51
+Men,D1,2015,Murray St.,"Sapp, T.J.","Payne, Cameron",51
+Men,D1,2017,Murray St.,"Miller, Terrell","Stark, Jonathan",51
+Men,D2,2016,Philadelphia U.,"Alexis, Peter","Kilpatrick, Brendan",51
+Women,D1,2013,Seattle,"Sowell, Kacie","Ward, Ashley",51
+Men,D1,2014,Syracuse,"Fair, C.J.","Ennis, Tyler",51
+Women,D1,2017,Louisville,"Durr, Asia","Moore, Mariya",51
+Women,D3,2014,Neumann,"Marvel, Erica","Schlesman, Jessica",51
+Women,D2,2016,Alas. Anchorage,"Buchanan, Jenna","Robertson, Kiki",51
+Women,D1,2016,Baylor,"Davis, Nina","Jones, Alexis",51
+Women,D3,2014,Earlham,"Spay, Kasin","Sneed, Bria",51
+Men,D1,2017,North Carolina St.,"Henderson, Terry","Smith, Jr., Dennis",51
+Men,D1,2014,Oregon,"Moser, Mike","Loyd, Johnathan",51
+Men,D3,2016,Wheelock,"Williams, Anthony","Fenton, Nicholas",51
+Women,D1,2017,Central Mich.,"Moore, Tinara","Hudson, Presley",51
+Women,D2,2017,Alas. Fairbanks,"Wilson, Jordan","Skjold, Kaillee",50
+Women,D1,2015,McNeese St.,"Donnes, Amber","Johnson, Jayln",50
 Women,D2,2017,Newberry,"Essex, Meg","Britten, Shelby",50
-Women,D2,2016,Alas. Anchorage,"Mullings, Megan","Robertson, Kiki",50
-Men,D1,2014,Baylor,"Jefferson, Cory","Chery, Kenny",50
-Men,D1,2014,Wichita St.,"Early, Cleanthony","Baker, Ron",50
+Men,D1,2014,Siena,"Poole, Rob","Wright, Marquis",50
+Women,D1,2015,McNeese,"Donnes, Amber","Johnson, Jayln",50
+Women,D1,2014,Southeastern La.,"Pool, Ty'Desheaia","Styles, Elizabeth",50
+Women,D2,2013,Bentley,"Battista, Lauren","Roberson, Kelsey",50
+Women,D1,2014,Toledo,"Zanoguera, Inma","Dortch, Andola",50
+Women,D3,2013,Colby-Sawyer,"DeSanty, Taylor","Bullett, Cailin",50
+Women,D1,2015,Norfolk St.,"Corbo, Rae","Gray, Jazamine",50
+Women,D2,2014,Minot St.,"Boag, Carly","Boag, Christina",50
+Women,D1,2015,Albany (NY),"Richards, Shereesha","Royals, Sarah",50
+Men,D2,2017,West Liberty,"Hoehn, Devin","Dennis, David",50
+Women,D1,2013,BYU,"Beeston, Kim","Steed, Haley",50
+Women,D1,2017,Mercer,"Lawrence, Kahlia","Means, Sydni",50
+Men,D3,2017,Nazareth,"Stenglein, Tyler","Wind, Brendan",50
+Women,D2,2015,Nova Southeastern,"Wilkins, Jasmine","Valley, Jessica",50
+Men,D1,2013,East Carolina,"Sampson, Robert","Paul, Miguel",50
+Men,D2,2016,Central Wash.,"Stroud, Joseph","Matthews, Devin",50
+Men,D3,2015,Clarkson,"Coleman, John","Hodownes, Dylan",50
+Men,D1,2015,Oakland,"Williams, Dante","Felder, Kahlil",50
+Women,D1,2015,UConn,"Mosqueda-Lewis, Kaleena","Jefferson, Moriah",50
+Men,D1,2017,Davidson,"Aldridge, Peyton","Gibbs, Jack",50
+Women,D1,2014,Hampton,"Tate-DeFreitas, Malia","Hamilton, Nicole",50
+Men,D1,2017,Loyola Chicago,"Jackson, Aundre","Doyle, Milton",50
+Women,D2,2013,Mont. St. Billings,"Goggins, Kayleen","Knudsen, Bobbi",50
+Women,D3,2017,St. Elizabeth,"Triplett, Danesha","Poole, Jasmine",50
+Women,D1,2016,UC Riverside,"Crain, Brittany","Verin, Rejane",50
+Men,D2,2015,Franklin Pierce,"Vilmont, Ryen","Becklens, Paul",50
+Women,D1,2014,Mercer,"Grant, Kendra","Boykin, Sharnea",50
+Women,D2,2017,Holy Family,"Iannotti, Abigail","Conroy, Jill",50
+Men,D1,2017,SMU,"Ojeleye, Semi","Milton, Shake",50
+Men,D1,2014,Kentucky,"Young, James","Harrison, Andrew",50
+Men,D1,2013,La.-Lafayette,"Long, Shawn","Payton, Elfrid",50
+Men,D1,2013,LIU Brooklyn,"Garner, C.J.","Brickman, Jason",50
+Men,D1,2016,Texas Southern,"Riley, Malcolm","Blanks, David",50
+Women,D2,2014,Colorado Mesa,"Selsor, Sharaya","Lopez, Christen",50
+Women,D1,2014,Southern Miss.,"Dinkins, Brittanny","Faulkner, Jamierra",50
+Women,D2,2016,Union (TN),"Caldwell, Tiara","Smith, Jada",50
+Men,D1,2017,Fort Wayne,"Konchar, John","Evans, Mo",50
+Women,D1,2016,Fairfield,"Smith, Casey","Ball, Lizzy",50
+Women,D1,2015,St. John's (NY),"Handford, Aliyyah","Lewis, Aaliyah",50
+Women,D3,2016,Ursinus,"Porada, Jessica","Polimeni, Alyssa",50
+Men,D2,2016,Dowling,"Millender, Chris","Brown, Tristan",50
+Women,D2,2017,West Florida,"Brewer, Toni","Coyne, Alex",50
+Men,D1,2017,Michigan St.,"Ward, Nick","Winston, Cassius",50
+Men,D3,2016,Wabash,"Purvlicis, Daniel","Jager, Johnny",50
 Women,D2,2017,Sioux Falls,"Knecht, Sam","Robson, Madi",50
-Women,D2,2015,West Va. Wesleyan,"Stewart, Mari","Browne, Allie",50
-Men,D2,2014,Drury,"Adams, Cameron","Carter, Ian",49
-Men,D1,2014,North Carolina St.,"Turner, Ralston","Lewis, Tyler",49
-Women,D3,2015,Ozarks (AR),"Farmer, Taylor","Sherrer, Madison",49
-Women,D1,2015,Eastern Ill.,"Oroszova, Sabina","Lennox, Grace",49
-Men,D2,2016,Ala.-Huntsville,"Webster, Seab","Gardner, Greg",49
-Men,D1,2013,North Carolina,"Bullock, Reggie","Strickland, Dexter",48
-Men,D1,2014,Louisville,"Harrell, Montrezl","Smith, Russ",48
-Women,D1,2013,Baylor,"Griner, Brittney","Madden, Jordan",48
-Men,D1,2015,North Carolina,"Johnson, Brice","Tokoto, J.P.",48
-Men,D2,2014,Holy Family,"Munoz, Alberto","Ezell, Ervin",48
-Men,D1,2014,Syracuse,"Cooney, Trevor","Ennis, Tyler",48
-Men,D1,2016,Wofford,"Collins, Spencer","Garcia, Eric",48
-Men,D1,2015,Xavier,"Reynolds, Jalen","Davis, Dee",48
-Men,D3,2015,Albertus Magnus,"Ljuljdjuraj, Victor","Sledge, Tavon",48
-Women,D1,2016,Western Ky.,"Brown, Ivy","Noble, Kendall",48
-Women,D2,2014,Nova Southeastern,"Burakoski, Amanda","Russi, Jessica",47
-Men,D1,2013,North Carolina,"McAdoo, James Michael","Paige, Marcus",47
-Women,D3,2014,Colorado Col.,"Davis, Danielle","Tyus, Courtney",47
-Men,D2,2013,Alas. Fairbanks,"Brinson, Dominique","Voeut, Pat",47
-Women,D2,2015,Alas. Fairbanks,"Wilson, Jordan","Bulaya, Benissa",47
-Men,D1,2014,North Carolina,"McAdoo, James Michael","Paige, Marcus",47
-Women,D1,2017,Temple,"Atkinson, Tanaya","Fitzgerald, Feyonda",47
-Men,D2,2017,Northwestern Okla.,"Motley, Adrian","Green, Brandon",47
-Women,D1,2017,New Mexico,"Lapeyrolerie, Alex","Beynon, Cherise",47
-Women,D3,2015,Ozarks (AR),"Moltz, Bryanna","Hipps, Ashley",47
-Men,D1,2014,Saint Joseph's,"Roberts, Ronald","Kanacevic, Halil",47
-Women,D2,2015,Fort Hays St.,"Lehman, Kate","Bohuslavsky, Beth",47
-Women,D2,2015,Southern Nazarene,"Fall, Aminata","Boyd, Abby",47
-Women,D3,2015,Ozarks (AR),"Farmer, Taylor","Hipps, Ashley",47
-Women,D1,2017,Boise St.,"Shaw, Shalen","Rodrigeuz, Yaiza",46
-Men,D1,2014,Duke,"Hood, Rodney","Cook, Quinn",46
-Women,D2,2013,Wingate,"Dunbar, Chantal","Wollett, Sarah",46
-Women,D2,2014,Nova Southeastern,"Carach, Richelle","Russi, Jessica",46
-Men,D1,2014,Canisius,"Lewis, Zach","Baron, Billy",46
-Men,D1,2016,Notre Dame,"Beachem, V.J.","Jackson, Demetrius",46
-Men,D1,2015,Arizona,"York, Gabe","McConnell, T.J.",46
-Women,D1,2017,Temple,"Fountain, Donnaizha","Fitzgerald, Feyonda",46
-Men,D3,2014,Amherst,"Green, Connor","Toomey, Aaron",46
-Men,D1,2013,New Mexico,"Snell, Tony","Williams, Kendall",46
-Men,D3,2016,Ozarks (AR),"Robinson, Kelby","Richardson, Jace",46
-Women,D1,2016,San Diego,"Hood, Malina","Woodward, Cori",46
-Men,D1,2013,Kansas,"Withey, Jeff","Johnson, Elijah",45
-Women,D1,2016,Western Ky.,"Brown, Tashia","Noble, Kendall",45
-Men,D2,2014,William Jewell,"Lewis, Jordan","Sistrunk, Jr, Dwight",45
-Men,D3,2017,John Carroll,"Berger, Ryan","Linane, David",45
-Men,D1,2015,Kentucky,"Booker, Devin","Ulis, Tyler",45
-Men,D1,2014,BYU,"Haws, Tyler","Collinsworth, Kyle",45
-Men,D2,2017,Simon Fraser,"Pankratz, JJ","Provenzano, Michael",45
-Women,D2,2013,Wingate,"Bonner, Kelli","Wollett, Sarah",45
-Men,D1,2014,San Diego,"Kramer, Dennis","Anderson, Christopher",45
-Men,D3,2017,Thomas (ME),"Gonzalez, Carlos","King, Ian",45
-Men,D1,2013,Notre Dame,"Atkins, Eric","Grant, Jerian",45
-Women,D3,2016,Manhattanville,"Raaf, Ashley","Pabon, Bri",45
-Men,D1,2015,Washington,"Kemp, Jr., Shawn","Williams-Goss, Nigel",45
-Women,D3,2017,Daniel Webster,"Free, Kayla","Santana, Natasha",44
-Men,D1,2016,Indiana,"Williams, Troy","Ferrell, Kevin Yogi",44
-Women,D3,2015,Ozarks (AR),"Farmer, Taylor","Andrews, Jordana",44
-Men,D1,2017,Michigan,"Wilson, D.J.","Walton Jr., Derrick",44
-Men,D1,2014,Iowa,"Marble, Roy Devyn","Gesell, Mike",44
-Men,D3,2017,Thomas (ME),"Simon, Tyheem","King, Ian",44
-Women,D2,2013,Wingate,"McGee, Morgan","Wollett, Sarah",44
-Men,D1,2014,North Carolina,"Johnson, Brice","Paige, Marcus",44
-Men,D1,2015,Xavier,"Stainbrook, Matt","Davis, Dee",44
-Women,D1,2016,Iona,"Robinson, Aaliyah","Lizarazu, Marina",44
-Men,D2,2017,Edinboro,"Brogdon, Sheldon","Mason, Jaymon",44
-Men,D1,2014,West Virginia,"Henderson, Terry","Staten, Juwan",43
-Women,D1,2017,Iowa St.,"Johnson, Seanna","Buckley, Jadda",43
-Women,D3,2017,Lynchburg,"Shepherd, Molly","DeFrancesco, Olivia",43
-Women,D1,2015,Washington,"Walton, Talia","Davis, Jazmine",43
-Men,D1,2014,Iowa,"White, Aaron","Marble, Roy Devyn",43
-Women,D1,2015,Drake,"Jonas, Becca","Ingle, Caitlin",42
-Men,D1,2016,New Mexico,"Williams, Tim","Brown, Elijah",42
-Men,D2,2015,Indiana (PA),"Jeffers, Jeremy","Chance, Devante",42
-Men,D2,2016,Sioux Falls,"Johnson, Mack","Johnson, Kebu",42
-Women,D2,2013,Simon Fraser,"Raincock-Ekunwe, Nayo","Collins, Kristina",42
-Men,D1,2016,Notre Dame,"Auguste, Zach","Jackson, Demetrius",42
-Women,D2,2017,Christian Bros.,"Reeves, Samantha","Banks, Courtney",42
-Women,D2,2017,Bridgeport,"Leblanc-Florent, A.","Miley, Camera",42
-Men,D2,2015,Indiana (PA),"Dyer, Shawn","Chance, Devante",42
-Men,D1,2014,Washington,"Wilcox, C.J.","Williams-Goss, Nigel",42
-Men,D1,2014,Boston U.,"Irving, D.J.","Watson Jr., Maurice",42
-Men,D1,2016,Arkansas St.,"Livingston, Anthony","Thomas, Donte",42
-Men,D1,2015,Gonzaga,"Karnowski, Przemek","Pangos, Kevin",42
-Women,D3,2015,Rhodes,"Daniels, Symone","Johnson, Sarah",42
-Men,D1,2017,Gonzaga,"Karnowski, Przemek","Williams-Goss, Nigel",42
-Men,D3,2016,Ozarks (AR),"Berard, Josh","Richardson, Jace",42
-Men,D1,2014,Xavier,"Stainbrook, Matt","Christon, Semaj",41
-Men,D1,2017,Xavier,"Bluiett, Trevon","Sumner, Edmond",41
-Men,D1,2017,Xavier,"Bluiett, Trevon","Goodin, Quentin",41
-Women,D2,2017,Harding,"Hogue, Caroline","Haney, A'Ndrea",41
-Men,D1,2014,Kentucky,"Harrison, Aaron","Harrison, Andrew",41
-Women,D1,2013,Washington,"Kingma, Kristi","Wetmore, Mercedes",41
-Women,D3,2014,Gallaudet,"Stergio, Lindsay","Weiss, Stephanie",41
-Women,D2,2015,Southern Nazarene,"Fall, Aminata","Hutchings, Ashleigh",41
-Women,D2,2015,Simon Fraser,"Chambers, Erin","Kett, Ellen",41
-Men,D1,2014,Baylor,"Heslip, Brady","Chery, Kenny",41
-Men,D1,2015,Santa Clara,"Brownridge, Jared","Clark, Brandon",41
-Men,D2,2016,Armstrong St.,"Scott, Nicholas","Jeffers, Jamison",41
-Men,D2,2014,Alas. Anchorage,"Thompson, Travis","Fossman, Kyle",41
-Women,D1,2015,Oklahoma,"Little, Peyton","Ortiz, Gabbi",41
-Men,D1,2017,Georgia Tech,"Lammers, Ben","Heath, Josh",41
-Men,D1,2017,Texas,"Allen, Jarrett","Jones, Andrew",41
-Men,D1,2014,Seton Hall,"Oliver, Brian","Gibbs, Sterling",41
-Men,D1,2015,Kentucky,"Harrison, Aaron","Harrison, Andrew",41
-Men,D1,2014,Duke,"Parker, Jabari","Thornton, Tyler",40
-Men,D2,2013,Winona St.,"Vette, Clayton","Cameron, Taylor",40
-Women,D3,2014,Marymount (VA),"Maknati, Aileen","Fischer, Katelyn",40
-Women,D3,2015,Rhodes,"Todman, Dy'Nelle","Johnson, Sarah",40
-Women,D1,2015,Stony Brook,"Proctor, Sabre","Bayne-Walker, Kori",40
-Men,D1,2015,Arizona,"Tarczewski, Kaleb","McConnell, T.J.",40
-Men,D2,2013,Wingate,"Matilus, Paidrick","Kincaid, Ethan",40
-Men,D1,2017,Minnesota,"McBrayer, Dupree","Mason, Nate",40
-Men,D2,2014,Alas. Anchorage,"Stafford, Teancum","McGill, Brian",40
-Men,D3,2017,Cal Lutheran,"Ferreira, Kyle","Richey, Caleb",40
-Women,D2,2015,Alas. Anchorage,"Buchanan, Jenna","Robertson, Kiki",40
-Men,D3,2017,Cal Lutheran,"Miles, Blake","Richey, Caleb",40
-Men,D1,2013,New Mexico,"Kirk, Alex","Williams, Kendall",40
-Men,D3,2016,Alma,"Bradfield, Doug","Nikodemski, Scott",40
-Men,D2,2016,Alas. Fairbanks,"Williams, Travante","Slocum, Joe",40
-Women,D1,2014,Denver,"Van Riper-Rose, Morgan","Bradley, Paige",40
-Men,D2,2016,Okla. Christian,"Moon, John","Rutherford, Jordan",39
-Men,D1,2014,Colorado,"Johnson, Xavier","Booker, Askia",39
-Men,D1,2014,Canisius,"Perez, Chris","Baron, Billy",39
-Women,D3,2015,Regis (MA),"Stone, Brittany","Hawkesworth, Amanda",39
-Women,D1,2015,Youngstown St.,"Schlegel, Heidi","Benjamin, Indiya",39
-Men,D1,2013,Notre Dame,"Connaughton, Pat","Grant, Jerian",39
-Men,D2,2016,Wheeling Jesuit,"Highsmith, Haywood","Siefert, Eric",39
-Men,D2,2016,Armstrong St.,"Mackey, Ethan","Jeffers, Jamison",39
-Men,D2,2017,Northwestern Okla.,"Halvorson, Cody","Green, Brandon",39
-Men,D1,2014,Wake Forest,"Williams, Coron","Miller-McIntyre, Codi",39
-Men,D1,2013,Notre Dame,"Connaughton, Pat","Atkins, Eric",39
-Women,D2,2016,Anderson (SC),"Monroe, Jennifer","Jankowy, Heather",39
-Women,D3,2015,Wheaton (MA),"Brickley, Abbie","Pierce, Laura",39
-Men,D2,2014,Alas. Fairbanks,"Kelly, Andrew","Slocum, Joe",39
-Men,D1,2016,Indiana,"Bryant, Thomas","Ferrell, Kevin Yogi",39
-Men,D1,2014,Colorado,"Scott, Josh","Booker, Askia",39
-Women,D2,2017,Simon Fraser,"Homer, Elisa","Kett, Ellen",39
-Men,D1,2014,Kansas,"Ellis, Perry","Selden Jr., Wayne",39
-Women,D2,2016,Sioux Falls,"Varsho, Taylor","Robson, Madi",39
-Women,D2,2017,Newberry,"Essex, Meg","Handreck, Nicola",39
-Women,D1,2015,Ole Miss,"Faleru, Tia","Sisk, Erika",39
-Men,D1,2015,Western Mich.,"Brown, David","Tava, Connar",39
-Men,D1,2017,Gonzaga,"Collins, Zach","Williams-Goss, Nigel",39
-Women,D1,2015,Washington,"Walton, Talia","Plum, Kelsey",39
-Men,D2,2017,Alas. Anchorage,"Svejcar, Spencer","Mitchell, Diante",39
-Women,D3,2015,Ozarks (AR),"Hipps, Ashley","Hipps, Ashley",39
-Men,D1,2013,Morehead St.,"Chavis, Milton","Atkinson, Devon",39
-Men,D1,2015,Arizona,"Hollis-Jefferson, Rondae","McConnell, T.J.",39
-Men,D2,2015,Alas. Anchorage,"Fain, Derrick","McGill, Brian",39
-Men,D2,2014,William Jewell,"Bell, Devonte","Sistrunk, Jr, Dwight",38
-Men,D1,2015,Arizona,"Johnson, Stanley","McConnell, T.J.",38
-Women,D1,2017,Bradley,"Lerma, Leti","Brackmann, Chelsea",38
-Men,D1,2017,Michigan,"Abdur-Rahkman, Muhammad-Ali","Walton Jr., Derrick",38
-Men,D1,2016,Northeastern,"Stahl, Zach","Walker, David",38
-Men,D1,2013,LSU,"O'Bryant III, Johnny","Carmouche, Charles",38
-Women,D2,2014,Nova Southeastern,"Robinson, Danielle","Russi, Jessica",38
-Men,D2,2016,Kentucky St.,"Smith, Malcolm","Jordan, Dorian",38
-Women,D2,2016,Alas. Anchorage,"Madison, Jessica","Robertson, Kiki",38
-Men,D3,2014,Skidmore,"Brooks, Tanner","Medunjanin, Aldin",38
-Men,D1,2014,Seton Hall,"Edwin, Fuquan","Gibbs, Sterling",38
-Men,D1,2016,Oakland,"Walker, Martez","Felder, Kahlil",38
-Women,D3,2014,Marymount (VA),"Lacey, Kievanna","Fischer, Katelyn",38
-Men,D2,2015,Indiana (PA),"Norfleet, Brandon","Chance, Devante",38
-Men,D3,2017,Yeshiva,"Cohen, Judah","Berg, Michael",38
-Men,D1,2014,Washington,"Wilcox, C.J.","Andrews, Andrew",38
-Men,D2,2016,Seattle Pacific,"Penner, Mitch","Leavitt, Bryce",38
-Men,D1,2015,Xavier,"Abell, Remy","Davis, Dee",38
-Men,D1,2015,Duquesne,"Mason, Micah","Jones, Jeremiah",38
-Men,D1,2014,New Mexico,"Kirk, Alex","Williams, Kendall",38
-Men,D2,2015,Indiana (PA),"Ugbede, Daddy","Chance, Devante",38
-Women,D1,2013,Wyoming,"Woodward, Kayla","Gorrell, Alison",37
-Men,D1,2014,Baylor,"Austin, Isaiah","Chery, Kenny",37
-Men,D1,2014,Wichita St.,"Cotton, Tekele","VanVleet, Fred",37
-Men,D2,2015,Le Moyne,"Gause, Naté","Lovell, Qwadere",37
-Men,D1,2013,Louisiana Tech,"Johnson, Cordarius","Smith, Kenneth",37
-Men,D3,2015,Rhode Island Col.,"Burton, Chris","Alleyne, Eric",37
-Men,D1,2014,Wake Forest,"McKie, Travis","Miller-McIntyre, Codi",37
-Men,D1,2013,Santa Clara,"Cowels III, Raymond","Foster, Kevin",37
-Women,D2,2013,Northwest Mo. St.,"Marnin, Maggie","Stevens, Monique",37
-Men,D1,2014,Boston U.,"Dieudonne, Nathan","Watson Jr., Maurice",37
-Men,D1,2014,Xavier,"Martin, Justin","Christon, Semaj",37
-Women,D1,2013,Washington,"Kingma, Kristi","Davis, Jazmine",37
-Men,D1,2015,Xavier,"Bluiett, Trevon","Davis, Dee",37
-Women,D1,2015,Youngstown St.,"Schlegel, Heidi","Arbanas, Nikki",37
-Women,D1,2013,Washington,"Walton, Talia","Wetmore, Mercedes",37
-Women,D3,2015,Wheaton (MA),"Brickley, Abbie","Ferrari, Kirsten",37
-Men,D2,2015,San Fran. St.,"Brown, Derrick","Haley, Bren",37
-Women,D2,2017,Western N.M.,"Botelho, Jade","Gutierrez, Jordan",37
-Men,D1,2016,Notre Dame,"Beachem, V.J.","Vasturia, Steve",37
-Men,D1,2014,Kansas,"Embiid, Joel","Tharpe, Naadir",37
-Men,D2,2013,Seattle Pacific,"Simon, Patrick","Downs, David",37
-Women,D1,2013,Wyoming,"Sickles, Ashley","Woodward, Kayla",37
-Men,D2,2017,West Va. Wesleyan,"Brondsted, Fred","Berchie, Mo",37
-Women,D1,2015,Arkansas,"Wolff, Melissa","Berna, Calli",37
-Men,D1,2014,West Virginia,"Dibo, Remi","Staten, Juwan",37
-Men,D1,2013,Morehead St.,"Warner, Angelo","Atkinson, Devon",37
-Women,D3,2015,Hope,"McAfee, Maura","Anderson, Autumn",37
-Women,D3,2015,Ozarks (AR),"Moltz, Bryanna","Andrews, Jordana",37
-Men,D2,2014,Tampa,"Foster, Da'Markco","Davis, Jordan",37
-Women,D2,2016,Anderson (SC),"Floyd, Madison","Jankowy, Heather",37
-Men,D2,2015,Ala.-Huntsville,"Mack, Ronnie","Gardner, Greg",37
-Women,D1,2015,Stony Brook,"Scognamiglio, Christa","Bayne-Walker, Kori",37
-Women,D1,2016,Cal Poly,"Gilbert, Hannah","Sanchez, Lisa Marie",37
-Men,D2,2015,Western Wash.,"Parker, Jeffrey","Maxwell, Ricardo",37
-Women,D2,2017,Alas. Fairbanks,"Mays, Jaylee","Milton, Victoria",37
-Men,D1,2013,Villanova,"Yarou, Mouphtaou","Arcidiacono, Ryan",37
-Women,D3,2016,Regis (MA),"Stone, Brittany","Hawkesworth, Amanda",37
-Men,D1,2013,Niagara,"Tanksley, Ameen","Green, Juan'Ya",36
-Women,D1,2015,Stony Brook,"Snow, Brittany","Bayne-Walker, Kori",36
-Women,D3,2015,NYU,"Dawe, Megan","Peng, Melissa",36
-Men,D1,2016,Austin Peay,"Horton, Chris","Davis, Khalil",36
-Women,D2,2014,Cedarville,"Jenerette, Kayla","Ryan, Raegan",36
-Men,D2,2015,Western Wash.,"Parker, Jeffrey","Javier, Harris",36
-Men,D3,2016,Yeshiva,"Rosenberg, Shelby","Berg, Michael",36
-Women,D1,2013,Baylor,"Griner, Brittney","Johnson, Niya",36
-Men,D2,2014,Alas. Anchorage,"Fossman, Kyle","Thompson, Travis",36
-Men,D2,2015,Simon Fraser,"Cole, Justin","Niang, Sango",36
-Men,D3,2016,Wentworth,"Romich, Kyle","Therriault, Ian",36
-Men,D1,2016,Texas,"Lammert, Connor","Taylor, Isaiah",36
-Women,D1,2014,Hofstra,"Onyeuku, Anma","Luciano, Krystal",36
-Women,D2,2014,West Tex. A&M,"White, Chontiquah","Land, Casey",36
-Men,D1,2013,Notre Dame,"Biedscheid, Cameron","Atkins, Eric",36
-Women,D2,2015,Simon Fraser,"Lowen, Katie","Kett, Ellen",36
-Women,D1,2016,Mississippi St.,"Dillingham, Dominique","William, Morgan",36
-Men,D1,2014,Eastern Ky.,"Cosey, Glenn","Walden, Corey",36
-Men,D1,2015,LSU,"Mickey, Jordan","Gray, Josh",36
-Men,D1,2015,La Salle,"Wright, Jerrell","Price, Jordan",36
-Men,D1,2013,Washington,"Wilcox, C.J.","Gaddy, Abdul",36
-Women,D1,2017,New Mexico,"Nunn, Jaisa","Beynon, Cherise",36
-Men,D2,2016,Young Harris,"Charles, J.B.","Wilson, C.J.",36
-Women,D3,2015,Ozarks (AR),"Hipps, Ashley","Andrews, Jordana",36
-Men,D1,2014,LIU Brooklyn,"Joseph, Troy","Brickman, Jason",36
-Men,D1,2014,Arizona,"York, Gabe","McConnell, T.J.",36
-Men,D2,2017,Western Wash.,"Parker, Jeffrey","Stafford, Taylor",36
-Men,D2,2014,Western N.M.,"Castrillo, Marcos","Scott, Terrez",35
-Men,D1,2015,LSU,"Hornsby, Keith","Quarterman, Tim",35
-Women,D1,2016,Arizona St.,"Hempen, Katie","Davis, Elisha",35
-Women,D2,2017,Harding,"Miller, Falan","Haney, A'Ndrea",35
-Men,D2,2014,American Int'l,"Porter, Marcus","Braithwaite, Spencer",35
-Women,D1,2016,Arizona St.,"Brunner, Sophie","Davis, Elisha",35
-Men,D3,2014,Skidmore,"Merrill, Connor","Medunjanin, Aldin",35
-Men,D3,2017,Iowa Wesleyan,"Soukup, Steven","Butler, Brock",35
-Men,D1,2013,Notre Dame,"Grant, Jerian","Atkins, Eric",35
-Women,D2,2015,Fort Hays St.,"Lehman, Kate","Shaw, Keriann",35
-Women,D1,2017,Duke,"Brown, Lexie","Lambert, Kyra",35
-Women,D2,2013,Benedict,"Thompson, Ashley","Jones, Alexus",35
-Men,D1,2016,Notre Dame,"Vasturia, Steve","Jackson, Demetrius",35
-Men,D1,2017,Texas,"Cleare, Shaquille","Jones, Andrew",35
-Men,D1,2013,Marquette,"Wilson, Jamil","Cadougan, Junior",35
-Women,D3,2017,Agnes Scott,"Grant, Garis","Teemer, Jalexis",35
-Men,D2,2017,William Jewell,"Whelan, Patrick","Perez-Laham, Jorge",35
-Women,D1,2016,New Mexico,"Shumpert, Khadijah","Beynon, Cherise",35
-Men,D1,2016,Oakland,"Daniels, Nick","Felder, Kahlil",35
-Men,D1,2014,New Mexico,"Bairstow, Cameron","Greenwood, Hugh",35
-Men,D2,2016,Ala.-Huntsville,"Roberts, Brandon","Gardner, Greg",35
-Women,D2,2015,West Liberty,"Simpson, Kierra","Flowers, Liz",35
-Men,D1,2016,Xavier,"Bluiett, Trevon","Davis, Myles",35
-Women,D1,2016,Cal Poly,"Gilbert, Hannah","Balbierz, Beth",35
-Women,D1,2013,Baylor,"Madden, Jordan","Sims, Odyssey",35
-Men,D2,2014,Tampa,"Cornu, Vincent","Davis, Jordan",35
-Men,D1,2014,Saint Joseph's,"Bembry, Deandre","Kanacevic, Halil",35
-Men,D3,2016,Wentworth,"Ganley, Jason","Romich, Kyle",35
-Women,D2,2017,Simon Fraser,"Nwabuko, Ozioma","Kett, Ellen",35
-Men,D1,2015,Western Ky.,"Fant, George","Price, T.J.",35
-Women,D1,2017,Wyoming,"Roberts, Liv","Tapia, Clara",35
-Men,D1,2016,Indiana,"Zeisloft, Nick","Ferrell, Kevin Yogi",35
-Women,D2,2015,West Liberty,"Kiley, Jasmin","Howe, Kailee",34
-Men,D1,2013,Marquette,"Blue, Vander","Cadougan, Junior",34
-Women,D1,2016,San Diego,"Williams, Sydney","Woodward, Cori",34
-Women,D3,2015,Hope,"Berry, Brittany","Anderson, Autumn",34
-Men,D1,2013,La Salle,"Galloway, Ramon","Duren, Tyreek",34
-Men,D1,2015,Missouri St.,"Ruder, Austin","Williams, Dorrian",34
-Women,D1,2013,Xavier,"Wanninger, Ashley","Hawkes, Shatyra",34
-Women,D3,2017,RIT,"Glaz, Jessica","Okada, Cori",34
-Men,D2,2014,Western N.M.,"Berry, Brelan","Scott, Terrez",34
-Women,D1,2016,Cal Poly,"Balbierz, Beth","Sanchez, Lisa Marie",34
-Men,D1,2014,Duke,"Parker, Jabari","Sulaimon, Rasheed",34
-Women,D1,2015,Alabama,"Williams, Ashley","Middlebrook, Karyla",34
-Women,D1,2016,Arizona St.,"Dornstauder, Quinn","Davis, Elisha",34
-Men,D1,2014,Wichita St.,"Baker, Ron","VanVleet, Fred",34
-Men,D1,2014,Washington,"Blackwell, Perris","Williams-Goss, Nigel",34
-Men,D1,2014,Baylor,"Jefferson, Cory","Franklin, Gary",34
-Women,D2,2016,Tarleton St.,"Wipff, Bailey","Ashmore, Morgan",34
-Women,D3,2015,Ozarks (AR),"Hipps, Ashley","Moltz, Bryanna",34
-Women,D1,2016,San Diego,"Hood, Malina","Hamilton, Katherine",34
-Women,D2,2016,Sioux Falls,"Knecht, Sam","Klostergaard, Alison",34
-Men,D1,2013,Notre Dame,"Cooley, Jack","Atkins, Eric",34
-Men,D2,2015,Okla. Christian,"Moon, John","Randall, Eric",34
-Men,D1,2014,Louisville,"Hancock, Luke","Smith, Russ",34
-Men,D3,2014,Allegheny,"Valentic, Josh","Corbin, D'Andre",34
-Men,D1,2015,Kentucky,"Cauley-Stein, Willie","Harrison, Andrew",34
-Men,D1,2015,Western Ky.,"Price, T.J.","Harrison-Docks, Chris",34
-Women,D1,2015,Duke,"Greenwell, Rebecca","Johnson, Ka'Lia",34
-Men,D1,2014,Baylor,"Austin, Isaiah","O'Neale, Royce",34
-Women,D1,2016,New Mexico St.,"Freeman, Brianna","Davis, Shanice",34
-Men,D1,2015,North Carolina,"Jackson, Justin","Paige, Marcus",34
-Men,D1,2013,Santa Clara,"Cowels III, Raymond","Roquemore, Evan",33
-Men,D1,2014,Manhattan,"Beamon, George","Stores, Rashawn",33
-Men,D1,2013,Villanova,"Bell, James","Arcidiacono, Ryan",33
-Women,D2,2013,Simon Fraser,"Chambers, Erin","Collins, Kristina",33
-Men,D1,2014,North Carolina St.,"Turner, Ralston","Barber, Anthony 'Cat'",33
-Women,D1,2015,Drake,"Dean, Maddy","Ingle, Caitlin",33
-Women,D1,2017,Bradley,"Schlueter, Anneke","Johnson, Alona",33
-Men,D1,2014,Saint Joseph's,"Galloway, Langston","Kanacevic, Halil",33
-Men,D1,2013,Arizona,"Lyons, Mark","Johnson, Nick",33
-Men,D1,2015,Duquesne,"Mason, Micah","Colter, Derrick",33
-Men,D1,2013,Lamar,"Brown, Stan","Minor, Donley",33
-Men,D3,2015,Castleton,"Coloutti, Rob","Parrish, Pavin",33
-Women,D1,2017,Duke,"Greenwell, Rebecca","Lambert, Kyra",33
-Women,D1,2014,Saint Mary's (MN),"Stefely, Jamie","Thone, Jessica",33
-Men,D2,2014,Simon Fraser,"Appiah, Ibrahim","Niang, Sango",33
-Men,D1,2013,Niagara,"Jordan, Marvin","Green, Juan'Ya",33
-Men,D1,2015,Montana St.,"Dison, Michael","Colbert, Marcus",33
-Men,D1,2013,LSU,"Stringer, Andre","Carmouche, Charles",33
-Women,D3,2016,Hamilton,"Graber, Sam","Rallins, Kendall",33
-Men,D2,2015,San Fran. St.,"Osakue, Udun","Haley, Bren",33
-Men,D3,2015,Norwich,"Hogervorst, Mike","Tullar, Evan",33
-Men,D1,2013,North Carolina,"McAdoo, James Michael","Strickland, Dexter",33
-Men,D3,2013,St. Mary's (MD),"Spencer, Devin","LaGuerre, Nick",33
-Men,D2,2015,GRU Augusta,"Sherrill, Keshun","Boyce, D'Angelo",33
-Men,D1,2015,North Carolina,"Jackson, Justin","Tokoto, J.P.",33
-Women,D2,2014,Slippery Rock,"Geise, Aidan","Aiello, Erica",33
-Men,D1,2016,Texas,"Felix, Javan","Taylor, Isaiah",33
-Men,D2,2017,Alas. Anchorage,"Wiggs, Sekou","Mitchell, Diante",33
-Women,D1,2015,Washington,"Plum, Kelsey","Davis, Jazmine",33
-Women,D1,2015,Arkansas,"Bowen, Jhasmin","Berna, Calli",33
-Women,D1,2015,Ole Miss,"Faleru, Tia","Hayes, A'Queen",33
-Men,D1,2017,Xavier,"Macura, J.P.","Goodin, Quentin",33
-Men,D2,2013,Alas. Anchorage,"Fossman, Kyle","Lauwers, Colton",33
-Women,D3,2016,Anna Maria,"Mareiro, Nicole","Taitt, Deja",33
-Women,D3,2017,Puget Sound,"Jackson, Samone","Noren, Alexis",33
-Men,D1,2014,Fairfield,"Barrow, Maurice","Rose, K.J.",33
-Women,D1,2017,New Mexico,"Burleson, Mykiel","Beynon, Cherise",33
-Women,D3,2013,Saint Mary's (MN),"Stefely, Jamie","Thone, Jessica",33
-Men,D1,2014,Saint Joseph's,"Galloway, Langston","Wilson, Chris",33
-Women,D2,2016,Slippery Rock,"Patterson, Ciara","Carpenter, Lexi",33
-Women,D2,2014,Alas. Fairbanks,"Wilson, Jordan","Bulaya, Benissa",33
-Men,D1,2014,Saint Peter's,"Burke, Chris","Wyche, Trevis",33
-Men,D2,2014,McMurry,"Golden, Brandon","Goff, Kourtney",33
-Men,D3,2016,Alma,"Beckman, DJ","Nikodemski, Scott",32
-Men,D1,2015,LSU,"Hornsby, Keith","Gray, Josh",32
-Women,D2,2014,Alas. Anchorage,"Madison, Jessica","Robertson, Kiki",32
-Women,D1,2017,Wichita St.,"Bessard, Rangie","Mike, Taquandra",32
-Women,D1,2016,Bucknell,"Klotz, Jacquie","Craig, Tyler",32
-Men,D2,2016,Alas. Fairbanks,"Hadzisehovic, Almir","Slocum, Joe",32
-Men,D2,2013,Abilene Christian,"Lloyd, Elliott","Lawton, Eric",32
-Women,D1,2013,Baylor,"Pope, Brooklyn","Hayden, Kimetria",32
-Men,D2,2015,Ala.-Huntsville,"Herring, Preston","Gardner, Greg",32
-Women,D3,2016,Hendrix,"Dyslin, Sara","Kriesel-Bigler, Caitlin",32
-Men,D2,2015,Le Moyne,"Romich, Ryan","Lovell, Qwadere",32
-Men,D1,2014,BYU,"Mika, Eric","Collinsworth, Kyle",32
-Men,D1,2015,Kentucky,"Harrison, Aaron","Ulis, Tyler",32
-Men,D1,2016,Wofford,"McGee, Fletcher","Garcia, Eric",32
-Men,D1,2013,New Mexico,"Kirk, Alex","Snell, Tony",32
-Women,D1,2016,Iona,"Lewis, Alexis","Lizarazu, Marina",32
-Men,D1,2013,Niagara,"Cline, T.J.","Green, Juan'Ya",32
-Women,D3,2017,Wilson,"Day, Jordyn","Henderson, Ashley",32
-Women,D3,2016,Macalester,"Fruh, Regan","Murray, Erin",32
-Women,D2,2013,Wingate,"Wollett, Sarah","Wollett, Sarah",32
-Women,D2,2013,Mount Olive,"Gary, Joneiqua","McDonald, Jasmine",32
-Men,D3,2015,Augsburg,"Rasmussen, Brett","Hines, Parker",32
-Men,D1,2017,Gonzaga,"Mathews, Jordan","Williams-Goss, Nigel",32
-Men,D1,2013,Washington,"N'Diaye, Aziz","Gaddy, Abdul",32
-Men,D1,2015,Duke,"Okafor, Jahlil","Cook, Quinn",32
-Men,D1,2016,Michigan,"Dawkins, Aubrey","Walton Jr., Derrick",32
-Men,D1,2014,Manhattan,"Richards, Shane","Alvarado, Michael",32
-Men,D2,2016,Seattle Pacific,"Carroll, Brendan","Leavitt, Bryce",32
-Men,D1,2015,New Mexico St.,"Barry, Remi","Baker, Ian",32
-Men,D2,2014,McMurry,"Perez, Alfred","Goff, Kourtney",32
-Women,D1,2013,Colorado,"Roberson, Arielle","Jeffery, Chucky",32
-Men,D1,2014,Baylor,"Heslip, Brady","O'Neale, Royce",32
-Men,D1,2015,East Carolina,"Whisnant, Terry","Robinson, Antonio",32
-Women,D2,2014,Cedarville,"Linkous, Kayla","Ryan, Raegan",32
-Men,D3,2014,Me.-Farmington,"Johnson, Ben","Carson, Nate",32
-Men,D1,2014,Manhattan,"Beamon, George","Alvarado, Michael",32
-Women,D2,2017,Newberry,"Essex, Meg","Schultz, Jaya",32
-Women,D2,2014,Lubbock Christian,"Hoppel, Kelsey","Hampton, Nicole",32
-Men,D1,2014,Duke,"Cook, Quinn","Hood, Rodney",31
-Women,D1,2017,Iowa St.,"Carleton, Bridget","Buckley, Jadda",31
-Men,D1,2015,San Francisco,"Tollefsen, Mark","Derksen, Tim",31
-Men,D1,2013,North Carolina,"Hairston, P.J.","Strickland, Dexter",31
-Men,D1,2013,Alabama,"Cooper, Rodney","Lacey, Trevor",31
-Men,D1,2017,Michigan,"Robinson, Duncan","Walton Jr., Derrick",31
-Men,D2,2017,Alas. Fairbanks,"Davis, Brandon","Matlock, Nahjee",31
-Men,D1,2013,Santa Clara,"Trasolini, Marc","Clark, Brandon",31
-Men,D2,2013,Notre Dame (OH),"Dearmond, Lawrence","Gaiter, Tyree",31
-Men,D2,2015,Western Wash.,"Parker, Jeffrey","Turner, Anye",31
-Men,D1,2015,Gonzaga,"Wiltjer, Kyle","Wesley, Byron",31
-Men,D1,2017,Michigan,"Irvin, Zak","Walton Jr., Derrick",31
-Men,D2,2015,GRU Augusta,"Thomas, Devonte","Sherrill, Keshun",31
-Men,D2,2013,Fort Hays St.,"Russell, Lance","Congiusta, Ben",31
-Men,D1,2014,North Carolina,"Johnson, Brice","Tokoto, J.P.",31
-Women,D2,2016,Tarleton St.,"Wipff, Bailey","McGrath, Raven",31
-Men,D2,2014,Eastern N.M.,"Love, Rafael","Blackmon, Rodney",31
-Women,D2,2017,Harding,"Layrock, Sydney","Haney, A'Ndrea",31
-Men,D3,2016,Old Westbury,"Page	, P.J.","Stanley, Jamail",31
-Women,D2,2015,Alas. Anchorage,"Madison, Jessica","Robertson, Kiki",31
-Women,D3,2017,Randolph-Macon,"Williams, Kelly","Intermill, Taylor",31
-Men,D3,2013,Plattsburgh St.,"McIntosh, Shamoy","Manning, Chris",31
-Women,D1,2017,Boise St.,"Pahukoa, Brooke","Rodrigeuz, Yaiza",31
-Men,D1,2017,Minnesota,"Murphy, Jordan","Mason, Nate",31
-Men,D1,2014,North Carolina,"McDonald, Leslie","Paige, Marcus",31
-Men,D1,2015,Western Ill.,"Covington, Garret","Sandifer, Jabari",31
-Men,D2,2013,Abilene Christian,"Werner, Steven","Lawton, Eric",31
-Women,D1,2013,Wyoming,"Sewell, Chaundra","Woodward, Kayla",31
-Men,D3,2016,Ozarks (AR),"Gray, Dylan","Richardson, Jace",31
-Men,D1,2014,Arizona,"Gordon, Aaron","Johnson, Nick",31
-Women,D1,2017,Drake,"Wendell, Lizzy","Ingle, Caitlin",31
-Men,D1,2014,Louisville,"Harrell, Montrezl","Jones, Chris",31
-Men,D2,2017,Alas. Anchorage,"Svejcar, Spencer","Wiggs, Sekou",31
-Women,D1,2017,Xavier,"Fincher, Kindell","Turner, Marquia",31
-Women,D2,2013,Augustana (SD),"Feeney, Alex","Ashley, Shaunteva",31
-Men,D2,2015,Alas. Anchorage,"Diouf, Kalidou","McGill, Brian",31
-Men,D1,2017,Gonzaga,"Williams, Johnathan","Williams-Goss, Nigel",31
-Men,D1,2014,Manhattan,"Brown, Rhamel","Alvarado, Michael",31
-Women,D1,2015,Ohio,"Black, Kiyanna","Yelle, Kat",31
-Women,D2,2017,Western Wash.,"Briggs, Tia","Peacocke, Taylor",31
-Women,D1,2016,West Virginia,"Martin, Tynice","Holmes, Bria",31
-Women,D2,2014,Lubbock Christian,"Burton, Haley","Hampton, Nicole",31
-Men,D2,2015,Slippery Rock,"Holloway, Frank","Goodwin, Kelvin",31
-Men,D1,2013,Kansas,"Releford, Travis","Johnson, Elijah",31
-Men,D1,2014,Kansas,"Selden Jr., Wayne","Tharpe, Naadir",31
-Women,D3,2017,D'Youville,"Korona, Jean-Ann","Magee, Magan",31
-Women,D1,2015,Detroit,"Crosby, Ellisha","Reynolds, Rosanna",31
-Women,D1,2016,Iona,"Adams, Joy","Lizarazu, Marina",31
-Men,D1,2017,Georgia Tech,"Lammers, Ben","Stephens, Quinton",31
+Men,D1,2016,Arkansas St.,"Carter, Devin","Thomas, Donte",50
+Men,D1,2016,Incarnate Word,"Hittle, Kyle","Badillo, Mitchell",50
+Men,D1,2014,Central Mich.,"Simons, John","Fowler, Chris",50
+Men,D3,2017,Benedictine (IL),"Reynolds, Adam","Harvey, Tahron",50
+Men,D1,2017,UMass Lowell,"Livingston, Tyler","Thomas, Jahad",50
+Men,D3,2013,Alvernia,"Bennett, Kahlil","Davis, Christopher",50
+Women,D2,2013,Western Wash.,"Harris, Britt","Williams, Trishi",50
+Women,D3,2014,Earlham,"Spay, Kasin","Franklin, Hannah",50
+Women,D1,2017,Washington,"Osahor, Chantel","Plum, Kelsey",50
+Women,D1,2016,Toledo,"Bravo-Harriott, Jay-Ann","Harris, Brenae",50
+Women,D1,2015,Oakland,"Nash, Olivia","Popkey, Elena",50
+Women,D1,2017,San Jose St.,"Smith, Jasmine","Ramos, Dezz",50
+Women,D2,2014,Newberry,"Lepaio, Haylee","Gleeson, Ellie",50
+Women,D2,2016,Tex. A&M Int'l,"Mathews, Keiona","Prieto, Jessica",50
+Women,D2,2013,Post,"Latham, Aubrey","Mansilla, Fernanda",50
+Women,D2,2014,Caldwell,"Anderson, Jeanette","Coscia, Jessica",50
+Men,D2,2015,UIndy,"Lawson, Joe","Barker, Lucas",50
+Women,D1,2013,Vanderbilt,"Foggie, Christina","Lister, Jasmine",50
+Men,D1,2014,Tulane,"Hook, Jay","Stark, Jonathan",50
+Women,D2,2016,Alas. Fairbanks,"Wilson, Jordan","Skjold, Kaillee",50
+Women,D1,2015,Wyoming,"Mileto, Kaitlyn","Dent, Marquelle",50
+Women,D1,2016,California,"Anigwe, Kristine","Cowling, Mikayla",50
+Men,D1,2016,Richmond,"Cline, T.J.","Jones, Shawndre'",50
+Men,D3,2016,Penn St.-Berks,"Burggraf, Christian","Nixon, Dameon",50
+Men,D2,2014,Anderson (SC),"Hash, Chandler","Jones, Myson",50
+Men,D2,2016,Lynn,"Landers, Fred","Wilson, Russell",50
+Women,D1,2013,Howard,"Doyle, Saadia","Curley-Payne, Cheyenne",50
+Women,D2,2013,Chadron St.,"Ranta, Kattie","Shaw, Dallas",50
