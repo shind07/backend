@@ -3,7 +3,7 @@ from common import relationships_data, pandasToArray
 import numpy as np
 
 NUM_SELECTS = 1
-data = relationships_data.sample(n=100)
+data = relationships_data.sample(n=300)
 columns = data.select_dtypes(np.number).columns.tolist()
 data_columns_start = 0
 defaults = columns[data_columns_start : data_columns_start + NUM_SELECTS]
