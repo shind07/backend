@@ -1,6 +1,5 @@
 import csv, os
 import pandas as pd
-from decimal import Decimal
 from config import data_dir
 
 def csvToArray(path):
@@ -19,4 +18,3 @@ pps_shot_clock_data = pd.read_csv(os.path.join(data_dir, 'pps_shot_clock.csv'))
 pps_action_data = pd.read_csv(os.path.join(data_dir, 'pps_action.csv'))
 relationships_data = pd.read_csv(os.path.join(data_dir, 'box_relationships.csv'))
 trends_data = pd.read_csv(os.path.join(data_dir, 'box_trends.csv'))
-# get all float columns
